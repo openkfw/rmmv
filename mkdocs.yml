@@ -1,0 +1,39 @@
+site_name: Remote Management, Monitoring, and Verification
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.expand
+    - navigation.footer
+    - toc.follow
+    - toc.integrate
+  custom_dir: overrides
+
+repo_url: https://github.com/openkfw/rmmv
+edit_uri: edit/main/docs/
+
+nav:
+
+
+plugins:
+  - mkdocs-jupyter
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc
+  - attr_list
+  - md_in_html
+  - pymdownx.critic
+  - pymdownx.tasklist:
+      clickable_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
