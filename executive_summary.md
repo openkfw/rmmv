@@ -1,3 +1,4 @@
+
 # Executive Summary
 
 Remotely managed and monitored international development projects have been an expanding mode of practice in environments where security risks are high. This trend has been further accelerated and broadened by the COVID-19 pandemic. The ensuing travel restrictions and social distancing measures have caused a shift in thinking about how work can be accomplished remotely and may significantly expand the use of _Remote Management_, _Monitoring_, and _Verification_ (RMMV) methods to allow interna- tional development cooperation practitioners to continue operating in areas with severely limited or no access.
@@ -10,6 +11,7 @@ across the globe on behalf of the Ger- man Government since 1948. Through intern
 
 As an experienced bank and specialist institution for development coopera- tion, KfW promotes and verifies the progress of each project from its con- ception and implementation to the final review and ex-post evaluation (project cycle).
 
+
 In addition, RMMV approaches and tools may improve the quality of monitoring for pro- jects without access problems, but covering many locations (e.g. in decentralization, health or education sectors) or widespread areas, such as forestry, biodiversity or agri- cultural programs.
 
 RMMV is a framework developed by KfW that responds to challenges that arise for stakeholders of KfW-financed development cooperation projects if they cannot travel to project sites and opens opportunities for digitally supported project implementation and management. It offers a methodology, institutional approaches, technical tools, data sources, and practical advice for ways to overcome difficulties when managing, monitoring, and verifying projects remotely (for the KfW definition of RMMV, [\> Section](#_bookmark7)
@@ -21,6 +23,7 @@ An earlier internal version of this _Guidebook_ had been developed in 2018 and w
 The purpose of this _Guidebook_ is to give an overview of KfW’s current RMMV approaches and how to apply them in donor-funded projects. After an introduction to RMMV and an overview of institutional approaches, technical tools, and data sources, the core of the _Guidebook_ explains how to utilize RMMV within a typical KfW project cycle. The _Guidebook_ assembles KfW’s experience and complements it with the experi- ence of other development partners in using RMMV approaches. It synthesizes the knowledge of relevant projects and builds on their best practices and lessons learned. After introducing the general concept of RMMV in [\> Section 1 Introduction to RMMV,](#_bookmark5)
 
 - [Section 2 RMMV Approaches and Tools](#_bookmark17) explains the main types of institutional RMMV approaches, technical tools, and data sources, as well as the most important legal, regulatory and human rights aspects to be considered with regards to RMMV and IT- infrastructure aspects. These aspects need to be considered when using the updated and expanded [RMMV Decision Matrix in > Section 2.5.](#_bookmark54) This RMMV _Decision Matrix_ serves as the basis for selecting and combining the appropriate institutional approaches, tool types, and data sources for the project. In [\> Section 3 RMMV within](#_bookmark57) [the FC Project Cycle,](#_bookmark57) the _Guidebook_ includes practical tools that can be chosen to assemble the appropriate mix of RMMV approaches at each stage of the FC project cycle—from project preparation to project end, including such topics as government negotiations, feasibility studies, tendering of consulting services, project progress, and final reviews. [\> Section 4 KfW RMMV Project Experience](#_bookmark108) includes best–practice project examples. Additional resources, such as a glossary of RMMV terms, _Fact Sheets_ on the RMMV tool types and data sources, the new KfW project location data collection guide- lines, and a list of relevant literature are included in the [\> Annexes.](#_bookmark135)
+
 
 The information gathered in this _Guidebook_ has been collected from a review of KfW pro- ject documents, RMMV guidelines and studies, input from experienced KfW staff who are already applying RMMV approaches in their daily work, internal and external workshops, as well as input from KfW technical experts, legal, contract and procurement specialists, team leaders and sector economists since 2017. KfW’s experience is complemented by a body of literature on RMMV and interviews with partners, other donors, consultants, RMMV service providers, and other non-development actors that use RMMV approaches, for example in the private sector.
 
@@ -40,6 +43,7 @@ In any given project, institutional approaches, technical tools, and data source
 
 Choosing an adequate RMMV approach for a project depends on a variety of parameters. KfW staff, together with the PEA, and/or the consultant need to decide:
 
+
 - **What information** and what level of data insight are required, and how often (the project partners staff may compare this with the general reporting requirements set out for the consultant to answer this question)?
 - **Who** needs to have remote access to the information and which stakeholders need to be involved to obtain the information?
 - **What** could be an adequate source of information (e.g., Open Data, national KfW experts, Third-Party Monitoring, satellite pictures, video proof, 360 images/films, local consultants conducting focus group discussions or environmental sensor data) or a suitable (technical) tool type to collect the required information?
@@ -48,7 +52,8 @@ KfW’s RMMV _Guidebook_ provides advice on how to integrate RMMV approaches thr
 
 Throughout the project cycle, RMMV activities need to be planned and agreed upon as early as possible, especially if they require significant investment, are exceptions from
 
-current regulations, or potentially entail data risks. For example, project preparation and appraisal can be informed through feasibility studies that are facilitated by consultants using RMMV approaches.
+Throughout the project cycle, RMMV activities need to be planned and agreed upon as early as possible, especially if they require significant investment, are exceptions from current regulations, or potentially entail data risks. For example, project preparation and appraisal can be informed through feasibility studies that are facilitated by consultants using RMMV approaches.
+
 
 During implementation, RMMV requires increased effort from KfW and project implementa- tion staff since data and information collection is often more complex and requires the trian- gulation of different data sources. Also, RMMV approaches often come with additional requirements regarding standard project management procedures—more frequent communi- cation with the PEA and other stakeholders may be needed throughout the project cycle if the portfolio manager cannot visit the PEA in person. Training and involving the national KfW office staff in establishing and implementing RMMV approaches require additional time and resources. In some cases, deviations from standard management procedures may be neces- sary, such as replacing progress review missions to project sites with virtual progress reviews.
 
