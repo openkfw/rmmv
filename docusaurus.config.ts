@@ -40,7 +40,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/openkfw/rmmv/",
+            "https://openkfw.github.io/rmmv/",
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -53,26 +53,20 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "RMMV Guidebook",
+      title: "RMMV",
       logo: {
         alt: "My Site Logo",
         src: "img/logo.svg",
       },
       items: [
         {
-          type: "docSidebar",
-          sidebarId: "tutorialSidebar",
+          type: "doc",
+          sidebarId: "guidebook",
           position: "left",
-          label: "General Factsheets",
+          label: "Guidebook",
         },
         {
-          type: 'doc',
-          position: 'left',
-          docId: 'climate-resilience/index',
-          label: 'Climate Resilience',
-        },
-        {
-          href: "https://github.com/openkfw/rmmv",
+          href: "https://openkfw.github.io/rmmv/",
           label: "GitHub",
           position: "right",
         },
