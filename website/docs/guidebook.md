@@ -1,24 +1,19 @@
 # Remote Management, Monitoring, & Verification (RMMV) Guidebook
 
-for International Financial Cooperation
-
-##### Disclaimer
-
-This _Guidebook_ was developed for all practitioners in preparing and implementing _Financial Cooperation_ (FC) projects and provides them with assistance and examples of how to manage, monitor, and verify FC projects remotely.
-
-This _Guidebook_ was carefully drafted by KfW, its advisers, and experts on the topics covered, reflecting the extensive experience gained in KfW’s own FC projects. The material and information provided in this _Guidebook_ are, however, general in nature. It can only provide an initial general overview and some broad practitioner guidelines over relevant aspects, risks, and issues that typically occur in this context and that KfW deems to be generally of interest and importance when dealing with such types of projects and questions. It does not constitute any form of legal, technical, or other advice and therefore does not purport to replace such legal, technical, or other advice for a specific project or question by a user.
-
-Before entering into any of the activities contemplated in this _Guidebook_, any _Guidebook_ user should first seek advice for themselves as they deem necessary and should not solely rely upon the material and information given herein as a basis for making any business, legal, or other decision. Any use of the material or information provided in this _Guidebook_ for specific projects is at the user’s own risk.
-
-Due to the general nature of this _Guidebook_, conclusions drawn from it always need to be adjusted to the specific needs and design of the respective project context. KfW can therefore not be held liable for any use and any conclusions drawn from this _Guidebook_.
-
-KfW makes no representation and excludes to the fullest extent permitted by applicable law any respon- sibility or liability for this _Guidebook_, its content, or any errors or omissions made in the content of this _Guidebook_. The information contained in this _Guidebook_ is provided for information purposes only and on an “as is” basis with no guarantees of completeness, accuracy, usefulness, or timeliness.
-
-**Rights And Permissions**
-
-The material in this work is subject to copyright. Because KfW Development Bank encourages dissemina- tion of its knowledge, this work may be reproduced, in whole or in part, for noncommercial purposes as long as full attribution to this work is given.
-
 # Table of Contents
+
+| Section | Title | Page |
+| --- | --- | --- |
+| 2 | [**RMMV Approaches and Tools — an Overview**](#_bookmark16) | 27 |
+|   | [**2.1 Institutional Approaches**](#_bookmark16) | 27 |
+|   | [2.1.1 General Description of the Institutional RMMV Approaches](#_bookmark16) | 27 |
+|   | [2.1.2 Institutional Setup and Changing Stakeholder Roles in RMMV](#_bookmark23) | 33 |
+|   | [2.1.3 Possible Conflicts Between Actors and Conflicts of Interest](#_bookmark26) | 35 |
+|   | [2.1.4 Creating an Incentive Model for Truthful Project Reporting](#_bookmark28) | 37 |
+|   | [**2.2 Technical Tools and Data Sources**](#_bookmark29) | 38 |
+|   | [2.2.1 Overview of Technical Tool Types](#_bookmark29) | 38 |
+|   | [2.2.2 The Use of Open-Source vs. Proprietary Tools/Software](#_bookmark31) | 39 |
+|   | [2.2.3 The Use of Data Sources](#_bookmark33) | 41 |
 
 [**Disclaimer 2**](#_bookmark0)
 
@@ -28,35 +23,44 @@ The material in this work is subject to copyright. Because KfW Development Bank 
 
 1.  [**Introduction to Remote Management, Monitoring, and Verification 17**](#_bookmark4)
     1.  [**KfW’s Mandate and Role in German Development Cooperation 17**](#_bookmark4)
-    2.  [**What is RMMV from a KfW Perspective? 18**](#_bookmark6)
-    3.  [**KfW’s Expectations vis-à-vis RMMV 19**](#_bookmark8)
-    4.  [**The Principles for Digital Development Applied to RMMV 20**](#_bookmark10)
-    5.  [**Limitations and Risks of RMMV 22**](#_bookmark13)
-        1.  [Limitations 22](#_bookmark13)
-        2.  [Risks 22](#_bookmark13)
+|   | [2.2.1 Overview of Technical Tool Types](#_bookmark29) | 38 |
+|   | [2.2.2 The Use of Open-Source vs. Proprietary Tools/Software](#_bookmark31) | 39 |
+|   | [2.2.3 The Use of Data Sources](#_bookmark33) | 41 |
+|   | [2.2.3.1 Key Elements in the Identification of Data Sources within the Project Cycle](#_bookmark33) | 41 |
+|   | [2.2.3.2 Key Elements in Data Analysis](#_bookmark35) | 42 |
+|   | [2.2.3.3 Systematic Bias and Potential Risks](#_bookmark35) | 42 |
+|   | [2.2.3.4 Equal Access to Data Sources](#_bookmark36) | 43 |
+|   | [2.2.4 Open Data](#_bookmark36) | 43 |
+|   | [2.2.5 Non-Open Data from External Sources](#_bookmark36) | 43 |
+|   | [2.2.6 Existing Data from Project Stakeholders](#_bookmark38) | 44 |
+|   | [2.2.7 Big Data](#_bookmark38) | 44 |
+|   | [**2.3 Legal and Regulatory Conditions and Recommendations**](#_bookmark39) | 45 |
+|   | [2.3.1 Data Protection and Privacy Requirements in Financial Cooperation](#_bookmark42) | 47 |
+|   | [2.3.2 Information Security and Confidentiality in Financial Cooperation](#_bookmark45) | 51 |
+|   | [2.3.3 Human Rights Aspects](#_bookmark47) | 53 |
 
-|     |     |     |
-| --- | --- | --- |
-| **2** | [**RMMV Approaches and Tools — an Overview**](#_bookmark16) | [**27**](#_bookmark16) |
-|     | [**2.1 Institutional Approaches**](#_bookmark16) | [**27**](#_bookmark16) |
-|     | [2.1.1 General Description of the Institutional RMMV Approaches](#_bookmark16) | [27](#_bookmark16) |
-|     | [2.1.2 Institutional Setup and Changing Stakeholder Roles in RMMV](#_bookmark23) | [33](#_bookmark23) |
-|     | [2.1.3 Possible Conflicts Between Actors and Conflicts of Interest](#_bookmark26) | [35](#_bookmark26) |
-|     | [2.1.4 Creating an Incentive Model for Truthful Project Reporting](#_bookmark28) | [37](#_bookmark28) |
-|     | [**2.2 Technical Tools and Data Sources**](#_bookmark29) | [**38**](#_bookmark29) |
-|     | [2.2.1 Overview of Technical Tool Types](#_bookmark29) | [38](#_bookmark29) |
-|     | [2.2.2 The Use of Open-Source vs. Proprietary Tools/Software](#_bookmark31) | [39](#_bookmark31) |
-|     | [2.2.3 The Use of Data Sources](#_bookmark33) | [41](#_bookmark33) |
-|     | [2.2.3.1 Key Elements in the Identification of Data Sources within the Project Cycle](#_bookmark33) | [41](#_bookmark33) |
-|     | [2.2.3.2 Key Elements in Data Analysis](#_bookmark35) | [42](#_bookmark35) |
-|     | [2.2.3.3 Systematic Bias and Potential Risks](#_bookmark35) | [42](#_bookmark35) |
-|     | [2.2.3.4 Equal Access to Data Sources](#_bookmark36) | [43](#_bookmark36) |
-|     | [2.2.4 Open Data](#_bookmark36) | [43](#_bookmark36) |
-|     | [2.2.5 Non-Open Data from External Sources](#_bookmark36) | [43](#_bookmark36) |
-|     | [2.2.6 Existing Data from Project Stakeholders](#_bookmark38) | [44](#_bookmark38) |
-|     | [2.2.7 Big Data](#_bookmark38) | [44](#_bookmark38) |
-|     | [**2.3 Legal and Regulatory Conditions and Recommendations**](#_bookmark39) | [**45**](#_bookmark39) |
-|     | [2.3.1 Data Protection and Privacy Requirements in Financial Cooperation](#_bookmark42) | [47](#_bookmark42) |
+    - 1.  [Rights of Use and Copyright 54](#_bookmark49)
+    - 2.  [Country-Specific Regulations Regarding the Use of Certain Tool Types 54](#_bookmark49)
+    - 2.  [The RMMV Decision Matrix for Selecting the Appropriate Mix of](#_bookmark53)
+
+[RMMV Institutional Approaches, Tool Types, and Data Sources 57](#_bookmark53)
+
+1.  [RMMV within the Financial Cooperation Project Cycle 7](#_bookmark56)3
+    1.  [Project Preparation 7](#_bookmark56)3
+
+[of RMMV in a Project 7](#_bookmark64)7
+
+    - 1.  [The Collection of Project Location Information Based on a New Geodata](#_bookmark65)
+
+[Standard for Financial Cooperation Projects 7](#_bookmark65)9
+
+    - 1.  [Stakeholder Analysis and Incentive Model 8](#_bookmark68)2
+    - 2.  [Environmental and Social Impact Assessment as Part of the Feasibility Phase 8](#_bookmark70)3
+
+    - 1.  [Project Implementation and Monitoring by the PEA/Consultant 9](#_bookmark89)6
+        1.  [Remote Investment Identification, Prioritization and Selection 9](#_bookmark89)6
+
+...existing code...
 |     | [2.3.2 Information Security and Confidentiality in Financial Cooperation](#_bookmark45) | [51](#_bookmark45) |
 |     | [2.3.3 Human Rights Aspects](#_bookmark47) | [53](#_bookmark47) |
 
@@ -790,53 +794,7 @@ Please note, that this table (status as of May 2022) only intends to provide som
 | **Risks related** | Somalia, | High risk | High risk | High risk |
 | **to transport** | South Sudan, |     |     |     |
 | **and traffic** | Western |     |     |     |
-|     | Sahara |     |     |     |
-| **Health risks** | Yemen, | Increased risk as staff might | Increased risk depending on | Increased risk depending on |
-|     | South Sudan, | not be familiar with local stan- | available resources and sys- | available resources and sys- |
-|     | Central Afri- | dards | tems | tems |
-|     | can Republic |     |     |     |
-
-Source: KfW Bankengruppe / Photographer: Mika Schmidt / auslöser photographie
-
-**How to choose the appropriate mix of institutional approaches, tool types and data sources**
-
-Source: KfW Bankengruppe / Jonas Wresch
-
-# RMMV Approaches and Tools — an Overview
-
-2
-
-This Section describes how RMMV approaches, and tools, including data sources are classified. Although one may immediately think of technology when considering RMMV, the success of RMMV approaches depends on involving the right people and planning the right courses of action. Projects using RMMV can be implemented without special technology, but only with good routines, good management, and the involvement of substitute actors.
-
-**2.1** Institutional Approaches
-
-RMMV approaches can be classified as either institutional approaches or as using technical tools and addi- tional data sources. Institutional approaches are defined by the setup and roles and responsibilities of project stakeholders to ensure effective management, monitoring, and verification of projects. They are crucial for interaction with others, especially if qualitative data needs to be collected. Technical tools are defined by the technology used. They ease or enable the collection, transmission, aggregation, structuring, management, analysis, verification, visualization, and interpretation of information. Technical tools may support local staff (e.g., supporting an enumerator with a survey app) but may also be used to collect information from independ- ent data sources (e.g., satellite data) or manage several types of information from various sources (e.g., (Remote) Management Information Systems). Overall, an appropriate mix between institutional approaches, technical tools, and data sources needs to be chosen for each project.
-
-## 2.1
-
-**Institutional Approaches**
-
-### General Description of the Institutional RMMV Approaches
-
-When deciding on which institutional approach(es) to use, the underlying question is always who will take over the specific responsibility of monitoring or verifying project data if international project staff (_Remote Monitor- ing_) or international KfW staff (_Remote Verification_) cannot access the project sites?
-
-KfW has categorized institutional approaches for RMMV as follows:
-
-### Figure 2.1: Overview of Institutional RMMV Approaches
-
-A1
-
-National KfW Experts
-
-Always
-
-A3
-
-Implementation Consultant-led Monitoring
-
-A2
-
-PEA-led Monitoring (supported by Consultant)
+...existing code...
 
 Choose between
 
