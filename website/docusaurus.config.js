@@ -4,7 +4,7 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-const prismThemes = require('prism-react-renderer').themes;
+const prismThemes = require('prism-react-renderer/themes');
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 /** @type {import('@docusaurus/types').Config} */
@@ -154,4 +154,4 @@ const config = {
     }),
 };
 
-module.exports = config;
+export default config;
