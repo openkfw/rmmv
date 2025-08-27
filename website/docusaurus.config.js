@@ -4,12 +4,12 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+const prismThemes = require('prism-react-renderer').themes;
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
-
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+  trailingSlash: false, // or true, depending on your preference
   title: 'RMMV Guidebook',
   tagline: 'Remote Management, Monitoring, & Verification (RMMV) Guidebook',
   favicon: 'img/favicon.ico',
@@ -48,6 +48,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
+          routeBasePath: '/',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
@@ -108,8 +109,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Guidebook',
-                to: '/docs/guidebook',
+                label: 'Executive Summary',
+                to: '/executive_summary',
               },
             ],
           },
@@ -153,4 +154,4 @@ const config = {
     }),
 };
 
-export default config;
+module.exports = config;
