@@ -32,7 +32,7 @@ jobs:
         working-directory: ./website
         
       - name: Build website
-        run: npx docusaurus build
+        run: node node_modules/@docusaurus/core/bin/docusaurus.mjs build
         working-directory: ./website
         
       - name: Upload artifact
