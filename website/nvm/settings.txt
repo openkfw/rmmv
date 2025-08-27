@@ -1,2 +1,0 @@
-root: C:\Users\adenm\RMMV\rmmv\website\nvm
-path: C:\Users\adenm\RMMV\rmmv\website\nodejs
