@@ -1,13 +1,5 @@
 {
-  "devDependencies": {
-    "@docusaurus/types": "^3.8.1",
-    "gh-pages": "^6.3.0"
-  },
   "dependencies": {
-    "@docusaurus/preset-classic": "^3.8.1",
-    "prism-react-renderer": "^2.4.1"
-  },
-  "scripts": {
-    "deploy": "gh-pages -d build"
+    "20": "^3.1.9"
   }
 }

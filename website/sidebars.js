@@ -17,12 +17,27 @@
 const sidebars = {
   // But you can create a sidebar manually
   tutorialSidebar: [
+    'executive_summary',
     'intro',
-    'hello',
     {
       type: 'category',
-      label: 'guidebook',
-      items: ['Guidebook'],
+      label: 'Tutorial Basics',
+      items: [
+        'tutorial-basics/congratulations',
+        'tutorial-basics/create-a-blog-post',
+        'tutorial-basics/create-a-document',
+        'tutorial-basics/create-a-page',
+        'tutorial-basics/deploy-your-site',
+        'tutorial-basics/markdown-features',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Tutorial Extras',
+      items: [
+        'tutorial-extras/manage-docs-versions',
+        'tutorial-extras/translate-your-site',
+      ],
     },
   ],
 };
