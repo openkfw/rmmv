@@ -17,9 +17,17 @@
 const sidebars = {
   // But you can create a sidebar manually
   tutorialSidebar: [
-    'executive_summary',
     'intro',
     {
+      type: 'category',
+      label: 'RMMV',
+      items: [
+        'executive_summary',
+        'disclaimer',
+        'introduction',
+      ],
+    },
+    { 
       type: 'category',
       label: 'Tutorial Basics',
       items: [
