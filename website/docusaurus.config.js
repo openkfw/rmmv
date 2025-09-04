@@ -85,7 +85,7 @@ const config = {
         title: 'RMMV Guidebook',
         logo: {
           alt: 'rmmv Logo',
-          src: 'img/logo.svg',
+          src: 'C:\\Users\\rmmv\\website\\static\\img\\Koffer_3_Responsive_1080x608.png',
         },
         items: [
           {
