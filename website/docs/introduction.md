@@ -1,7 +1,7 @@
 ---
 id: introduction
 title: 1. Introduction to Remote Management, Monitoring, and Verification
-sidebar_position: 2
+sidebar_position: 5
 ---
 
 # 1. Introduction to Remote Management, Monitoring, and Verification

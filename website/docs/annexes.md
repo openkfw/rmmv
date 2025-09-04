@@ -1,7 +1,7 @@
 ---
 id: annexes
 title: Annexes
-sidebar_position: 8
+sidebar_position: 10
 ---
 
 # Annexes
@@ -14,4 +14,4 @@ sidebar_position: 8
 
 ## Annex 4: List of RMMV Literature
 
-[Content will be added here]
+[Content to be added]

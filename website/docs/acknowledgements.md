@@ -1,9 +1,9 @@
 ---
 id: acknowledgements
 title: Acknowledgements
-sidebar_position: 9
+sidebar_position: 11
 ---
 
 # Acknowledgements
 
-[Content will be added here]
+[Content to be added]

@@ -4,10 +4,9 @@ title: Executive Summary
 sidebar_position: 4
 ---
 
-# Executive Summary
 # Executive Summary 
 
-Remotely managed and monitored international development projects have been an expanding mode of practice in environments where security risks are high. This trend has been further accelerated and broadened by the COVID-19 pandemic. The ensuing travel restrictions and social distancing measures have caused a shift in thinking about how work can be accomplished remotely and may significantly expand the use of _Remote Management_, _Monitoring_, and _Verification_ (RMMV) methods to allow interna- tional development cooperation practitioners to continue operating in areas with severely limited or no access.
+Remotely managed and monitored international development projects have been an expanding mode of practice in environments where security risks are high. This trend has been further accelerated and broadened by the COVID-19 pandemic. The ensuing travel restrictions and social distancing measures have caused a shift in thinking about how work can be accomplished remotely and may significantly expand the use of _Remote Management_, _Monitoring_, and _Verification_ (RMMV) methods to allow international development cooperation practitioners to continue operating in areas with severely limited or no access.
 
 **KfW’s Mandate in International Development Cooperation**
 
@@ -85,12 +84,4 @@ A full overview of all the risks is provided in [\> Section 1.5 Limitations and 
 
  **Continue to foster RMMV innovation in collaboration with PEA and Imple- mentation Consultants.** Much of the innovation in technical tools for RMMV has occurred in collaboration with PEA and consultants—for example, the development of (Remote) Management Information Systems (R/MIS) and the use of webcams and low-cost sensors or satellite images. PEA and consulting companies are encour- aged to propose innovative and successfully tested approaches and tools in projects using RMMV and to develop the relevant capacities of their staff.
  **Develop partnerships with satellite operators.** Development partners are cur- rently engaging in collaborations with satellite operators across their portfolios to obtain satellite imagery at lower costs. Consulting companies and other firms may wish to evaluate whether such a collaboration could be beneficial in their respective cases as well.
-**Start with your project’s information needs and institutional approaches, not with technical tools!**
-#
----
-slug: /
----
-#
----
-slug: /
----
+**Start with your project's information needs and institutional approaches, not with technical tools!**

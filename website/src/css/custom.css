@@ -1,31 +1,27 @@
 /**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
+ * Professional RMMV Color Theme
  */
 
-/* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  /* Primary KfW-inspired colors */
+  --ifm-color-primary: #0066cc;
+  --ifm-color-primary-dark: #0052a3;
+  --ifm-color-primary-darker: #004d99;
+  --ifm-color-primary-darkest: #003d7a;
+  --ifm-color-primary-light: #1975d1;
+  --ifm-color-primary-lighter: #2680d6;
+  --ifm-color-primary-lightest: #4da6ff;
+  
+  /* Professional color palette */
+  --ifm-background-color: #ffffff;
+  --ifm-background-surface-color: #f8f9fa;
+  --ifm-navbar-background-color: #0066cc;
+  --ifm-footer-background-color: #1a1a1a;
   --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
-/* Blue background theme */
-html[data-theme='light'] {
-  --ifm-background-color: #f0f8ff; /* Light blue background */
-  --ifm-background-surface-color: #ffffff;
-}
-
-html[data-theme='dark'] {
-  --ifm-background-color: #1e3a5f; /* Dark blue background */
-  --ifm-background-surface-color: #2d4a6b;
+/* Dark theme colors */
+[data-theme='dark'] {
   --ifm-color-primary: #4da6ff;
   --ifm-color-primary-dark: #2693ff;
   --ifm-color-primary-darker: #1a88ff;
@@ -33,18 +29,159 @@ html[data-theme='dark'] {
   --ifm-color-primary-light: #70b9ff;
   --ifm-color-primary-lighter: #85c4ff;
   --ifm-color-primary-lightest: #b5daff;
+  
+  --ifm-background-color: #1b1b1d;
+  --ifm-background-surface-color: #2d2d30;
+  --ifm-navbar-background-color: #2d2d30;
+  --ifm-footer-background-color: #1a1a1a;
 }
 
-/* Additional blue styling */
+/* Navbar styling */
 .navbar {
-  background-color: var(--ifm-color-primary);
+  background: linear-gradient(135deg, #0066cc 0%, #004499 100%);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
+.navbar__title {
+  color: white !important;
+  font-weight: 600;
+}
+
+.navbar__item--right .navbar__link {
+  color: rgba(255,255,255,0.9) !important;
+}
+
+.navbar__item--right .navbar__link:hover {
+  color: white !important;
+}
+
+/* Footer styling */
 .footer {
-  background-color: var(--ifm-color-primary-dark);
+  background: linear-gradient(135deg, #1a1a1a 0%, #0f0f0f 100%);
+  border-top: 3px solid var(--ifm-color-primary);
 }
 
-/* Custom blue accent colors */
-.hero {
-  background: linear-gradient(135deg, #2e8555 0%, #4da6ff 100%);
+.footer__title {
+  color: white;
+  font-weight: 600;
+}
+
+.footer__item {
+  color: rgba(255,255,255,0.8);
+}
+
+.footer__link-item:hover {
+  color: var(--ifm-color-primary-light);
+}
+
+/* Content area improvements */
+.main-wrapper {
+  background-color: var(--ifm-background-color);
+}
+
+/* Card-like appearance for content */
+article {
+  background: var(--ifm-background-surface-color);
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  padding: 2rem;
+  margin: 1rem 0;
+}
+
+/* Sidebar improvements */
+.theme-doc-sidebar-container {
+  background-color: var(--ifm-background-surface-color);
+  border-right: 1px solid #e1e4e8;
+}
+
+.theme-doc-sidebar-item-link {
+  border-radius: 6px;
+  margin: 2px 0;
+}
+
+.theme-doc-sidebar-item-link:hover {
+  background-color: rgba(0, 102, 204, 0.1);
+}
+
+.theme-doc-sidebar-item-link-level-1.theme-doc-sidebar-item-link--active {
+  background-color: rgba(0, 102, 204, 0.15);
+  border-left: 3px solid var(--ifm-color-primary);
+}
+
+/* Table improvements */
+table {
+  border-collapse: collapse;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+table th {
+  background-color: var(--ifm-color-primary);
+  color: white;
+  font-weight: 600;
+}
+
+table tr:nth-child(even) {
+  background-color: rgba(0, 102, 204, 0.05);
+}
+
+/* Code blocks */
+.theme-code-block {
+  border-radius: 8px;
+  border: 1px solid #e1e4e8;
+}
+
+/* Alerts and callouts */
+.alert {
+  border-radius: 8px;
+  border-left: 4px solid var(--ifm-color-primary);
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #1a1a1a;
+}
+
+[data-theme='dark'] h1,
+[data-theme='dark'] h2,
+[data-theme='dark'] h3,
+[data-theme='dark'] h4,
+[data-theme='dark'] h5,
+[data-theme='dark'] h6 {
+  color: #e1e4e8;
+}
+
+/* Links */
+a {
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--ifm-color-primary-dark);
+  text-decoration: underline;
+}
+
+/* Pagination */
+.pagination-nav__link {
+  border-radius: 8px;
+  border: 1px solid #e1e4e8;
+  transition: all 0.2s ease;
+}
+
+.pagination-nav__link:hover {
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 2px 8px rgba(0, 102, 204, 0.15);
+}
+
+/* Search */
+.DocSearch-Button {
+  border-radius: 6px;
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.2);
+}
+
+.DocSearch-Button:hover {
+  background: rgba(255,255,255,0.15);
 }

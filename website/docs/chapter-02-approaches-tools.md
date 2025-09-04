@@ -1,7 +1,7 @@
 ---
 id: chapter-02-approaches-tools
 title: 2. RMMV Approaches and Tools - an Overview
-sidebar_position: 3
+sidebar_position: 6
 ---
 
 # 2. RMMV Approaches and Tools - an Overview
