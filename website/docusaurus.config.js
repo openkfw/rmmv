@@ -71,16 +71,33 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Resources',
+            title: 'Documentation',
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/openkfw/rmmv',
+                label: 'RMMV Guidebook',
+                to: '/docs/table-of-contents',
+              },
+              {
+                label: 'Introduction',
+                to: '/docs/introduction',
+              },
+            ],
+          },
+          {
+            title: 'Legal',
+            items: [
+              {
+                label: 'Disclaimer',
+                to: '/docs/disclaimer',
+              },
+              {
+                label: 'License (CC0)',
+                href: 'https://github.com/yourusername/rmmv-guidebook/blob/main/LICENSE',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} KfW Development Bank.`,
+        copyright: undefined, // This removes the default copyright
       },
       prism: {
         theme: themes.github,

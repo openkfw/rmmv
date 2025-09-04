@@ -1,3 +1,9 @@
+---
+id: introduction
+title: 1. Introduction to Remote Management, Monitoring, and Verification
+sidebar_position: 2
+---
+
 # 1. Introduction to Remote Management, Monitoring, and Verification
 
 ## **1.1 KfW’s Mandate and Role in German Development Cooperation**

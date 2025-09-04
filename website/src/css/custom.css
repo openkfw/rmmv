@@ -17,14 +17,34 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+/* Blue background theme */
+html[data-theme='light'] {
+  --ifm-background-color: #f0f8ff; /* Light blue background */
+  --ifm-background-surface-color: #ffffff;
+}
+
+html[data-theme='dark'] {
+  --ifm-background-color: #1e3a5f; /* Dark blue background */
+  --ifm-background-surface-color: #2d4a6b;
+  --ifm-color-primary: #4da6ff;
+  --ifm-color-primary-dark: #2693ff;
+  --ifm-color-primary-darker: #1a88ff;
+  --ifm-color-primary-darkest: #0066cc;
+  --ifm-color-primary-light: #70b9ff;
+  --ifm-color-primary-lighter: #85c4ff;
+  --ifm-color-primary-lightest: #b5daff;
+}
+
+/* Additional blue styling */
+.navbar {
+  background-color: var(--ifm-color-primary);
+}
+
+.footer {
+  background-color: var(--ifm-color-primary-dark);
+}
+
+/* Custom blue accent colors */
+.hero {
+  background: linear-gradient(135deg, #2e8555 0%, #4da6ff 100%);
 }
