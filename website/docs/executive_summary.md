@@ -1,6 +1,8 @@
+# Executive Summary 
+
 Remotely managed and monitored international development projects have been an expanding mode of practice in environments where security risks are high. This trend has been further accelerated and broadened by the COVID-19 pandemic. The ensuing travel restrictions and social distancing measures have caused a shift in thinking about how work can be accomplished remotely and may significantly expand the use of _Remote Management_, _Monitoring_, and _Verification_ (RMMV) methods to allow interna- tional development cooperation practitioners to continue operating in areas with severely limited or no access.
 
-**Box 1: KfW’s Mandate in International Development Cooperation**
+**KfW’s Mandate in International Development Cooperation**
 
 KfW, the development bank of the German government, is one of the world’s leading development banks. Its ownership is split between the Federal Republic of Germany (80%) and the German Federal States (20%), and it has been committed to improving economic, social, and environmental living conditions across the globe on behalf of the Ger- man Government since 1948. Through international Financial Cooperation (FC), KfW finances development cooperation projects around the world on behalf of the German Fede- ral Ministry for Economic Cooperation and Development (BMZ). KfW’s FC division has local offices in almost 70 countries around the world. The spec- trum of projects supported ranges from investments in large-scale infra- structure—for example, renewables, urban transport systems, water sup- ply, and wastewater disposal—to cre- dit lines for small- and medium-sized enterprises and the development of basic social services. In addition to the direct impact of its individual pro- jects, KfW also supports structural reforms to contribute to sustainable development on a permanent basis.
 
