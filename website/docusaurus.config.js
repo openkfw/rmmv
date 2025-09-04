@@ -75,11 +75,11 @@ const config = {
             items: [
               {
                 label: 'RMMV Guidebook',
-                to: '/docs/table-of-contents',
+                to: '/table-of-contents',
               },
               {
                 label: 'Introduction',
-                to: '/docs/introduction',
+                to: '/introduction',
               },
             ],
           },
@@ -88,11 +88,11 @@ const config = {
             items: [
               {
                 label: 'Disclaimer',
-                to: '/docs/disclaimer',
+                to: '/disclaimer',
               },
               {
                 label: 'License (CC0)',
-                href: 'https://github.com/yourusername/rmmv-guidebook/blob/main/LICENSE',
+                href: 'https://github.com/openkfw/rmmv/blob/main/LICENSE',
               },
             ],
           },
