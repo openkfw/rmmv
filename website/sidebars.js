@@ -1,12 +1,9 @@
 /**
  * Creating a sidebar enables you to:
  - create an ordered group of docs
- - render a "Next" navigation link in the doc footer
- - provide a table of contents on the right side of your page
+ - render a "Next" and "Previous" button for each doc
 
- The sidebars can be generated from the filesystem, or explicitly defined here.
-
- Create as many sidebars as you want.
+ You can create as many sidebars as you want.
  */
 
 // @ts-check
@@ -15,10 +12,31 @@
 const sidebars = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
   tutorialSidebar: [
-    'introduction',
-    'executive_summary',
+    'table-of-contents',
     'disclaimer',
+    'abbreviations',
+    'executive-summary', // Changed from 'executive_summary' to 'executive-summary'
+    'introduction',
+    'chapter-02-approaches-tools',
+    'chapter-03-project-cycle',
+    'chapter-04-project-experience',
+    'conclusion',
+    'annexes',
+    'acknowledgements',
   ],
+
+  // But you can create a sidebar manually
+  /*
+  tutorialSidebar: [
+    'intro',
+    'hello',
+    {
+      type: 'category',
+      label: 'Tutorial',
+      items: ['tutorial-basics/create-a-document'],
+    },
+  ],
+   */
 };
 
 module.exports = sidebars;
