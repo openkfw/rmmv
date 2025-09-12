@@ -71,15 +71,11 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Documentation',
+            title: 'Table of Contents',
             items: [
               {
-                label: 'RMMV Guidebook',
+                label: 'Table of Contents',
                 to: '/table-of-contents',
-              },
-              {
-                label: 'Introduction',
-                to: '/introduction',
               },
             ],
           },
@@ -87,12 +83,8 @@ const config = {
             title: 'Legal',
             items: [
               {
-                label: 'Disclaimer',
-                to: '/disclaimer',
-              },
-              {
-                label: 'License (CC0)',
-                href: 'https://github.com/openkfw/rmmv/blob/main/LICENSE',
+                label: 'Legal Disclaimer',
+                to: '/ccl',
               },
             ],
           },
