@@ -10,7 +10,7 @@ const {themes} = require('prism-react-renderer');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'RMMV Guidebook',
-  tagline: 'Remote Management, Monitoring, & Verification (RMMV) Guidebook',
+  tagline: 'Remote Management, Monitoring, & Verification (RMMV) Guidebook for International Financial Cooperation',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
