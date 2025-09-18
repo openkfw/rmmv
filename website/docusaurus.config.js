@@ -92,13 +92,13 @@ const config = {
                 label: 'Legal Disclaimer',
                 to: '/disclaimer',
               },
-            ]
+            ],
             items: [
               {
                 label: 'Legal License',
                 to: '/license',
               },
-            ]
+            ],
           },
         ],
         copyright: undefined, // This removes the default copyright
