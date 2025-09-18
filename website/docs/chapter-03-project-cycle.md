@@ -13,8 +13,6 @@ Although this Guidebook refers to KfW's mode of operation, the principles can, o
 
 Figure 3.1: Most Relevant Steps for RMMV in the Financial Cooperation Project Cycle
 
-
-
 Government
 Feasibility
 Project
@@ -60,8 +58,7 @@ With regards to RMMV, there are some sectors and financing instruments that are 
 
 #### 3.1.1.2 Pre-assessing the Feasibility of Proposed Project Ideas
 Before the government negotiations take place, the project partners need to make sure that the sectoral and regional focus of an FC engagement and possible project ideas can realistically be implemented, if necessary through a mix of institutional RMMV approaches, technical tool types and data sources. While institutional RMMV approaches, technical tool types and data sources can go a long way in enabling KfW to finance projects in areas inaccessible to international staff, KfW may have to recommend its clients and partners to drop a project idea entirely from the list of projects before or during government negotiation in the following cases:
-� 
-Complex project ideas that require constant international staff presence or that have obvious high environmental and social risks, such as dam construction
+� Complex project ideas that require constant international staff presence or that have obvious high environmental and social risks, such as dam construction
 � Projects for which sufficient environmental and social data to inform decision-making cannot be collected in a timely and/or reliable manner
 � Project areas that are completely inaccessible most of the time to local project staff
 � Project regions or areas where electronic data collection devices cannot be used
@@ -84,8 +81,7 @@ Currently, > Google Earth Pro images are used as well as > OpenStreetMap, > Bing
 
 The application of satellite data can be also used for the early estimation of losses and those data can be also used for avoiding opportunistic behavior, such as people moving into the project area before the cut-off date.
 
-Besides geographic information, there are several other information sources (> Section 2.2.3 The Use of Data Sources) for screening environmental and social risks, such as for screening indigenous peoples (IP) in Latin America. For such screenings, you can use > http://peoplesoftheworld.org/bycountry or LandMark
-(> https://landmarkmap.org) and > https://www.iwgia.org/en/. The two latter sites also offer maps and reports.
+Besides geographic information, there are several other information sources (> Section 2.2.3 The Use of Data Sources) for screening environmental and social risks, such as for screening indigenous peoples (IP) in Latin America. For such screenings, you can use > http://peoplesoftheworld.org/bycountry or LandMark(> https://landmarkmap.org) and > https://www.iwgia.org/en/. The two latter sites also offer maps and reports.
 
 Google searches can also assist with getting contextual information, for example, on the application of Inter- national Labour Organization (ILO) core labor standards or searching for similar projects in the region as well as on pre-assessing human rights risks, > Section 2.3.3 Human Rights Aspects. KfW is currently developing an Open Data Platform to facilitate easy access to the main relevant open-data sources in the context of inter- national development cooperation. This platform will include data sources needed for assessing environmental and social risks and impacts.
 
@@ -102,10 +98,7 @@ RMMV needs to be considered in the Feasibility Study in two ways:
 International feasibility consultants are to use RMMV approaches themselves, especially, but not exclusively when they are unable to visit the project region and target group(s). Feasibility consultants need to analyze the context and needs and the target group(s), consult with stakeholders, and collect baseline data. The con- sultant is to propose the best institutional RMMV approaches, tool types and data sources to carry out the Feasibility Study. A few examples are outlined below:
 � Use relevant RMMV (open) data sources including satellite data (> Fact Sheet Earth Observation via Satellites) as part of the desk study/mission preparation. This is especially useful to determine the baseline indicators, control groups and relevant context factors and risks.
 � Assign national/local consultants (ideally male and female speaking local languages) for context and needs analysis in project region: the feasibility consultant subcontracts local experts to assess needs, speak to stakeholders and target groups and visit potential project sites > Institutional RMMV Approach A2.
-� 
-Assign local consultants to collect target groups' opinions through participatory methods:
-local consultants can use participatory methods (e.g., village mapping or other methods of rural participa- tory appraisals) to gather feedback from target groups in order to improve project design, identify risks and devise mitigation measures, including identifying do-no-harm and environmental and social risks
-(> Box 2 above for a description of participative methods).
+� Assign local consultants to collect target groups' opinions through participatory methods: local consultants can use participatory methods (e.g., village mapping or other methods of rural participa- tory appraisals) to gather feedback from target groups in order to improve project design, identify risks and devise mitigation measures, including identifying do-no-harm and environmental and social risks(> Box 2 above for a description of participative methods).
 � Survey target group using mobile survey application: classical surveys of target groups can be supported through smart phone apps > Fact Sheet Mobile Data Collection.
 � Evaluate population movement through use of mobile phone big data: This can be helpful to identify target areas, analyze needs and establish baselines, particularly for emergency, migration, biodiversity and transport projects (to be repeated during project launch) > Fact Sheet Data Sources.
 
@@ -123,15 +116,9 @@ The ToR for a Feasibility Study include the entire content necessary to assess t
 a) Context and project conditions
 � Sector analysis and needs assessment: the consultant can be encouraged or obliged to use relevant RMMV (open) data sources, including satellite data (> Fact Sheet Data Sources) as part of the desk study/ mission preparation.
 � Analysis of human rights situation: if RMMV approaches require target groups or other local stake- holders to be directly involved in the RMMV approach, the level of freedom of expression must be analyzed and discussed, > Section 2.3.3 Human Rights Aspects and > Digital Rights Check.
-� Analysis of access to ICT in the target region(s) by different parts of the target group(s) to determine the feasibility of certain technical tool types and the need for mitigating potential digital divides, > Section
-3.1.2.6 Local ICT Access Conditions.
-� Analysis of legal and regulatory framework regarding RMMV: the consultant is to analyze the legal and regulatory framework regarding prospective institutional approaches, technical tool types and data sources (> Section 2.5 RMMV Decision Matrix) to assess whether these are legal and feasible in a given context, or if it is necessary/recommendable to negotiate exceptions. This assessment must also include as a focus the country-specific data protection, privacy, information security, rights of use and hardware and software import regulations relevant to the prospective approaches, tool types and data sources, > Section
-2.3 Legal and Regulatory Conditions and Recommendations.
-� Analysis of the PEA's capacity, management and monitoring structure and processes to jointly determine the institutional project setup, including the related suitable institutional RMMV approaches and the role(s) of the PEA within the project's RMMV approach. The assessment of PEA capacity gaps also informs the ToR of the consultant(s) required to assist with the project implementation and monitoring,
-> Section 3.1.2.4 Stakeholder Analysis and Incentive Model.
-
-
-
+� Analysis of access to ICT in the target region(s) by different parts of the target group(s) to determine the feasibility of certain technical tool types and the need for mitigating potential digital divides, > Section 3.1.2.6 Local ICT Access Conditions.
+� Analysis of legal and regulatory framework regarding RMMV: the consultant is to analyze the legal and regulatory framework regarding prospective institutional approaches, technical tool types and data sources (> Section 2.5 RMMV Decision Matrix) to assess whether these are legal and feasible in a given context, or if it is necessary/recommendable to negotiate exceptions. This assessment must also include as a focus the country-specific data protection, privacy, information security, rights of use and hardware and software import regulations relevant to the prospective approaches, tool types and data sources, > Section 2.3 Legal and Regulatory Conditions and Recommendations.
+� Analysis of the PEA's capacity, management and monitoring structure and processes to jointly determine the institutional project setup, including the related suitable institutional RMMV approaches and the role(s) of the PEA within the project's RMMV approach. The assessment of PEA capacity gaps also informs the ToR of the consultant(s) required to assist with the project implementation and monitoring, > Section 3.1.2.4 Stakeholder Analysis and Incentive Model.
 � Analysis of the security situation and access to the project region for all stakeholders (KfW interna- tional and national experts, PEA staff, suppliers, NGO and (local) government staff, international and local Implementation Consultant staff): the consultant is to assess the security threats and the degree of access to the project region and the freedom of movement for all stakeholders in order to evaluate suitability for taking over monitoring tasks.
 � Development of security strategies for all stakeholders. The analysis is to differentiate between inter- national, national, and local staff and consider multiple sources of security threats and their likelihood and severity for each group of staff, taking the current international security situation of the country as starting point, > Section 1.5.2. Risks.
 � The consultant is to evaluate the PEA's existing security and risk management approaches to assess whether these are suitable and recommend adaptations as necessary. In particular, the consultant is to assess potential unintended negative consequences of protection measures on the security of local staff (e.g., obviously protected compound may render local staff visible after office hours, and thus vulnerable for attack).
@@ -139,14 +126,11 @@ a) Context and project conditions
 b) Project concept: Propose an RMMV Approach (mix of institutional approaches, technical tool types and data sources):
 � Design of a monitorable project: The consultant is to design the project in such manner as to allow cost-effective project monitoring. This is true for all FC projects, but even more so in remote contexts. Depending on the situation, this can mean for instance that the geographic spread of the measures must be limited to keep monitoring cost acceptable, or that individual project measures have to be similar in terms of design, scale, and implementation mode. If a project finances infrastructure measures of very different funding volumes, this would require different monitoring concepts, which become all the more difficult to organize if monitoring can only be done remotely.
 � Development of the mix of institutional RMMV approaches, tool types and data sources as part of the project concept: The consultant is to propose an appropriate mix for project appraisal, implemen- tation, monitoring project progress and use of funds, outcome and impact monitoring, and verification of progress and completion as well as ex-post evaluation by KfW. Furthermore, the consultant is to outline how the RMMV approach will be prepared and implemented. This includes defining responsibilities, contractual relations, tool types and data sources to be used and outlining the implications in terms of cost and duration. If software is to be used, the consultant must consider whether open-source software will be required within the ToR for the project implementation or not. Especially for projects with high or substantial E&S risks, the consultant is to propose how RMMV approaches, tool types and data sources will be used for managing those risks adequately.
-� If the RMMV approach includes a (Remote) Management Information System, a Maintenance Management System, a Geographic Information System or similar complex software, the Feasibility Study must already outlined recommendations regarding their ownership type:
-> A general statement that open-source software is always better than proprietary is not true. However, open-source software has greater potential for long-term sustainable use because there are no license fees involved.
-> The selection of the appropriate software type is determined based on the objectives and the circum- stances of the project. Who will be the user(s) of the software? Should the software be used by the local authorities after the project ends? Do additional capacity-building measures have to be taken to ensure its continued use? What would be the most cost-effective option? Can the software be reused or repli- cated for other projects with little adaptation? Is the required local expertise on hand for operating and maintaining the proprietary or open-source solution? Considering these exemplary and other questions, the choice becomes clear; see also, > Section 2.2.2 The Use of Open-Source vs Proprietary Software.
-> The Feasibility Study should make a recommendation regarding whether use of open-source software is to be a requirement. If this is the case, KfW PMs need to ensure that this is included in the Separate Agreement with the PEA, in the Terms of Reference for the Implementation Consultant and/or the soft- ware developer, > Cases A, B, C in the Fact Sheet (Remote) Management Information Systems.
+� If the RMMV approach includes a (Remote) Management Information System, a Maintenance Management System, a Geographic Information System or similar complex software, the Feasibility Study must already outlined recommendations regarding their ownership type: > A general statement that open-source software is always better than proprietary is not true. However, open-source software has greater potential for long-term sustainable use because there are no license fees involved. > The selection of the appropriate software type is determined based on the objectives and the circum- stances of the project. Who will be the user(s) of the software? Should the software be used by the local authorities after the project ends? Do additional capacity-building measures have to be taken to ensure its continued use? What would be the most cost-effective option? Can the software be reused or repli- cated for other projects with little adaptation? Is the required local expertise on hand for operating and maintaining the proprietary or open-source solution? Considering these exemplary and other questions, the choice becomes clear; see also, > Section 2.2.2 The Use of Open-Source vs Proprietary Software. > The Feasibility Study should make a recommendation regarding whether use of open-source software is to be a requirement. If this is the case, KfW PMs need to ensure that this is included in the Separate Agreement with the PEA, in the Terms of Reference for the Implementation Consultant and/or the software developer, > Cases A, B, C in the Fact Sheet (Remote) Management Information Systems.
 � The concept must include recommendations for data-sharing agreements between the PEA, KfW and potentially other project stakeholders, on privacy and rights of use aspects and regarding a strategy for the security of collected data and information, > Section 2.3 Legal and Regulatory Conditions and Recommendations.
 � Requests for Proposals should emphasize that consultants are to propose a RMMV concept that is context-specific as part of their technical offer.
-c) 
-Analysis of RMMV-specific risks to project success in fragile environments:
+
+c) Analysis of RMMV-specific risks to project success in fragile environments:
 � Analysis of potential implementation risks due to the security context. The consultant is to assess the risk that lack of access and the difficult security situation may endanger the implementation of the project. If adequate monitoring cannot be ensured, it may be necessary to stop project preparation and evaluate whether the project is unfeasible.
 � Analysis of access risks and contingency plans to mitigate them. In fragile contexts, access to project sites is usually fluid and projects need to be able to adapt. This may require contingency plans for the project concept (e.g., shift to a different region) and for the monitoring (e.g., assigning another stake- holder for monitoring if one stakeholder loses access).
 � Analysis of environmental and social and specifically do-no-harm risks: environmental, social and do-no-harm risks of the proposed RMMV approach, including increased risks of biased reporting due to inadequate use of technical tools or unqualified local project staff, which need to be assessed and mini- mized through recommended mitigation measures.
@@ -154,9 +138,7 @@ Analysis of RMMV-specific risks to project success in fragile environments:
 The following sub-sections highlight certain key aspects relating to RMMV which the Feasibility Study is expected to cover:
 
 #### 3.1.2.3 The Collection of Project Location Information Based on a New Geodata Standard for Financial Cooperation Projects
-This standardized Data Model for FC project location information collection has been developed by KfW
-to facilitate project location data collection, storage, management, and visualization of location information from Financial Cooperation projects (FC) for KfW and its partners and clients, and is to be used by consultants when conducting the Feasibility Study and by the Implementation Consultant during project implementation,
-> Section 3.2 Project Implementation and Monitoring.
+This standardized Data Model for FC project location information collection has been developed by KfW to facilitate project location data collection, storage, management, and visualization of location information from Financial Cooperation projects (FC) for KfW and its partners and clients, and is to be used by consultants when conducting the Feasibility Study and by the Implementation Consultant during project implementation, > Section 3.2 Project Implementation and Monitoring.
 
 What is Project Location Information?
 Project location information is data point information on the geographical end point of an international devel- opment assistance financial flow that is part of the respective project. In case exact geographical end points cannot be defined, approximate end points can be chosen which can relate to an administrative unit, or if that too is unfeasible, to the location of the project's executing agency, in order to ensure that all FC projects can be visualized on a map. Some examples:
@@ -168,8 +150,6 @@ This geo standard for the FC is mainly based on the standard of the Internationa
 
 What Are the Benefits of Collecting Project Location Information?
 Project location data yields a unique contextual presentation of FC activities that allow for visualizing and analyzing project activities in a geographic dimension. This allows project stakeholders to answer a range of questions, such as: "What is the contextual situation of the project location?", "To what extent, how well or how poorly connected are daily activities of the population to related infrastructure (e.g., local commerce to the road network)?", "Which environmental risks could affect potential infrastructure sites, and what are the implications for site selection?", "To what extent does the project activity (e.g., support for a protected area) achieve certain outcomes or impact objectives (e.g., reduction of deforestation)?" These are just some exam- ples of how geospatial analysis can answer specific questions or highlight risks or impacts that may not been asked before. Project location data are crucial to making other geodata sources, such as open satellite images, useful, > Section 2.2.3.1 Key Elements in the Identification of Data and Fact sheets, > Fact Sheet Data Sources, > Fact Sheet Earth Observation via Satellites and, > Fact Sheet Geospatial Tools. Furthermore, combined location data from multiple projects allow unique aggregated views on sector approaches, cumula- tive risks, combined impacts achieved, etc.
-
-
 
 Benefits for KfW Portfolio Managers and Technical Experts:
 Overview of the geolocations of all project sites, improved analysis and comparability of geographically assignable project data with internal and external data sources, structured transfer of project location data to other external systems, improved data quality and time savings regarding the above tasks.
@@ -190,15 +170,12 @@ Once collected in the standardized format, location-related project data can be 
 Benefits for clients, partner countries, other development banks, the public:
 Greater external transparency, easier identification of opportunities for cooperation with external actors, improvement in the international IATI ranking
 
-The platform-independent structuring of key project location information based on the IATI standard enables automatic import and export of these data to other internal and external applications, e.g., for the,
-> KfW Transparency Portal at www.kfw.de, as well as for clients and partner systems. This facilitates the identification of synergies, gaps and collaboration opportunities for all relevant actors and stakeholders in the target area(s).
+The platform-independent structuring of key project location information based on the IATI standard enables automatic import and export of these data to other internal and external applications, e.g., for the, > KfW Transparency Portal at www.kfw.de, as well as for clients and partner systems. This facilitates the identification of synergies, gaps and collaboration opportunities for all relevant actors and stakeholders in the target area(s).
 
 How Is the Project Location Information Collected and Stored within KfW?
 The collection of location information is to be organized within KfW in accordance with the FC Project Loca- tion Data Model, which is based on the IATI standard, and with a number of best practices of other develop- ment organizations and already existing standards for geospatial data. The FC Project Location Data Model specifies which location data and how location data are to be collected by the projects. The location data are to be provided by PEA staff, Implementation Consultants and/or other stakeholders who work for the respective project. Data collection should be conducted following the FC Project Location Data Model and specific techni- cal requirements detailed below > Annex 3 KfW's Project Location Data Collection and Management Approach.
 
-
 11 SWOT stands for Strengths, Weaknesses, Opportunities and Threats
-
 
 KfW furthermore offers a standard Sample Terms of Reference (ToR) for project location data collection (> Annex 3.2), which also includes the technical specifications from > Annex 3.1.
 
@@ -208,26 +185,18 @@ After collection, the provided project location data is uploaded in a KfW-intern
 
 Figure 3.2: Visualization of Location Data Following the FC Project Location Data Model Showing All FC Project Locations in Pakistan in 2021
 
-
 The above map shows all FC project locations under preparation and implementation in Pakistan in a uniform way.
 
 Some of the locations are showing a selection of filter criteria (e.g., project title acronym, name of the PEA, implementation status of the location activity).
-
-
 
 Now, all hydropower plant locations in Pakistan can be selected with one click:
 
 Figure 3.3: An Illustration of a Use Case: Overview of All Hydropower Stations Financed by the FC in Pakistan
 
 project. If different potential PEAs are considered, the organization's willingness may be a crucial selection factor. Therefore, the consultant must analyze whether the potential PEA(s) is/are willing to share relevant data, and which set(s) of institutional approaches and technical tool types they are or propose using.
-� Analysis of PEA(s) experience and capacity with RMMV and proposed approaches: The consultant is to analyze the reliability of monitoring approaches and tools currently used by the PEA(s). If the PEA(s) already use(s) tools, the consultant is to assess whether these can be used or extended or additional tools or tool types are required. If the PEA uses a (Remote) Management Information System, see also,
-> Fact Sheet (Remote) Management Information System ToR Case B.
-
+� Analysis of PEA(s) experience and capacity with RMMV and proposed approaches: The consultant is to analyze the reliability of monitoring approaches and tools currently used by the PEA(s). If the PEA(s) already use(s) tools, the consultant is to assess whether these can be used or extended or additional tools or tool types are required. If the PEA uses a (Remote) Management Information System, see also, > Fact Sheet (Remote) Management Information System ToR Case B.
 � Analysis of the local market for architects/planners and construction firms: If international and national firms cannot access the project sites, the project may have to rely on local planners and construc- tion firms. In such cases, the consultant is to analyze whether there are local firms capable of and poten- tially willing to perform the required tasks.
 � Analysis of the (local) market of monitoring consultants, IT experts and technical tool providers: the proposed set of RMMV approaches and tool types may require specific (local) expertise. How can this expertise be identified and engaged? Some tool types may be only accessible through certain public provi- ders determined by the government (e.g., satellites or drones in some countries). How can these be procu- red? These issues need to be considered in the Feasibility Study.
-
-
-
 
 This map of Pakistan shows the hydropower plant location, acronym of the project title "the respective project location is part of", "name of the PEA responsible for the project this location is part of" as well as the "imple- mentation status of the main activity at the respective location".
 
@@ -242,6 +211,7 @@ If RMMV approaches are to be used in the project, the analysis of such positive 
 � Target group analysis: if the target group is supposed to participate in the use of technical tools, the consultant must analyze local IT access conditions as well as the target groups' incentives as well as their actual IT-access disaggregated by gender, relative wealth, age, literacy (digital divide), relative remoteness (urban/rural divide) etc. to avoid unacceptably high levels of bias, and/or create awareness of bias consid- ered acceptable or desired (e.g., bias towards youth in mobile feedback systems, which is underrepresented in traditional decision-making systems).
 � Peace and Conflict Assessment: The Peace and Conflict Assessment is to propose methods for reliable Remote Monitoring of do-no-harm indicators and their assessment as to potential capacity gaps and con- flicts of interest among the project stakeholders, forming the basis for the do-no-harm matrix (KFG-Matrix).
 � Analysis of PEA willingness to appropriately use RMMV approaches: The PEA's willingness to use/ allow RMMV approaches appropriately is crucial to the success of a remotely managed and/or monitored
+
 #### 3.1.2.5 Environmental and Social Impact Assessment as Part of the Feasibility Phase
 If RMMV approaches are to be used due to limited project site access, it must be clarified first, if potential environmental and social risk and impacts can be identified, whether these can be adequately assessed and subsequently managed and monitored via the applied RMMV approach or whether there are limitations or the project may even be unfeasible in a remote modality. Similarly, with regard to the aspects mentioned in the subsections above, the Feasibility Study consultant needs to analyze the possibilities and limitations of RMMV approaches for the a) identification and analysis of stakeholders and PAP, and b) socioeconomic baseline surveys, as well as census for resettlement and livelihood restoration.
 
@@ -251,13 +221,9 @@ The identification of environmental and social risks and impacts should be an in
 
 For some risks related to category A and B+, the application of RMMV approaches may be limited and/or may involve challenges. In general, social aspects are more difficult to manage in a virtual environment. For exam- ple, applying RMMV approaches for World Bank ESS 5 on involuntary resettlement is challenging. Conducting socioeconomic baseline studies or census surveys for resettlement and livelihood restoration, including stake- holder engagement, may be difficult and require a tailored solution depending on the institutional approach used and on the technical RMMV tool types and data sources available, > Section 2.5 RMMV Decision Matrix. ESS 5 requires that the PAP be compensated before the impact materializes, thus there is a need for sufficient data to be available in a timely and reliable manner, while the compensation and livelihood restoration pro- cess needs to be implemented and monitored adequately as well. The same holds true for WB ESS 7 on indig- enous people (IP), especially regarding the obtaining of the free prior informed consent (FPIC). In addition, one must be careful in applying RMMV approaches in the context of resettlement and IPs, as civil society actors view technical tools and approaches critically. Also, biodiversity baseline studies in natural or critical habitats may not be possible with all institutional approaches.
 
-
-
-
 In addition, it needs to be clarified whether local consultants are available and competent enough to conduct screening, scoping and full-fledged ESIA (if required), whether or not guided by international experts. Many RMMV approaches feature a strong emphasis on consultants or even local consultants, thus the ToR for these assignments must be carefully developed and the consultants must demonstrate in their technical offer how they would apply RMMV approaches for each project task. For instance, it should be clarified which (satellite) data and tools they intend to use for what task. As an example: onsite bird flight monitoring in sensitive loca- tions to determine if a given site is a critical habitat.
 
-If in the pre-assessment considerable human rights risks are identified connected with the technical tool types you are planning to use, you may include a human rights risk assessment as part of your scop- ing or Feasibility Study. The Danish Institute for Human Rights provides useful guidance on > Human Rights  Impact Assessment (HRIA) of Digital Activities, such as what to consider in the Terms of Reference for plan- ning and scoping digital activities:
-> https://www.humanrights.dk/sites/humanrights.dk/files/media/document/Phase%201_Planning%20and%20  Scoping_ENG_accessible.pdf
+If in the pre-assessment considerable human rights risks are identified connected with the technical tool types you are planning to use, you may include a human rights risk assessment as part of your scop- ing or Feasibility Study. The Danish Institute for Human Rights provides useful guidance on > Human Rights  Impact Assessment (HRIA) of Digital Activities, such as what to consider in the Terms of Reference for plan- ning and scoping digital activities: > https://www.humanrights.dk/sites/humanrights.dk/files/media/document/Phase%201_Planning%20and%20  Scoping_ENG_accessible.pdf
 
 If the technical tools you are planning to use for your project contain one or more of the following elements, you may consult the digital rights check developed jointly by KfW, GIZ and the Danish Institute for Human Rights: > https://digitalrights-check.bmz-digital.global/kfw/ and check the recommendations for the respective element(s) as well as the respective Tool Type Fact Sheets referenced below:
 
@@ -274,39 +240,29 @@ If the technical tools you are planning to use for your project contain one or m
 Local ICT access conditions must be assessed as part of the Feasibility Study because these are relevant for all tool types using mobile phones and a local internet connection. These may be mobile data collection tools, crowdsourcing tools, big data sources, R/MIS, Maintenance Management Systems, camera-based remote sensing, sensors or smart meters (internet-of- things), > Tool Types Fact Sheets. Considering the precarious data situation in most partner countries, choices are often limited for the collection of accurate and repre- sentative data. The likelihood of reaching a near-representative or at least socially inclusive share of the pop- ulation through mobile survey technology will increase along with rates of mobile phone penetration, house- hold mobile phone ownership, the functional and ICT literacy of women and other vulnerable or marginalized groups, ICT affordability, and ICT connectivity. At least, the following topics are to be considered.
 
 � Access to electricity: In Sub-Saharan Africa, some 600 million people (almost two-thirds of the region's population) do not have regular electricity, while 15% have no electricity access at all. 12 However, this however only severely limits mobile phone network access for people with no electricity access at all.
-� Mobile phone ownership: In 2024, 5.61 billion people worldwide used a mobile phone (equaling 69.4% network access, of which an estimated half are smartphones). 13 However, Asian-Pacific and African coun- tries in particular lag behind. While the percentage of smartphone use is increasing (by the end of 2020, over 4 billion people were using mobile internet, representing 51% of the world's population) 14, poor and rural populations in particular only have access to simple mobile phones without broadband access or the advanced computing functions of a smartphone. Currently, cross-national data sets on mobile phone penetration, such as provided by the World Bank, are based on estimations of the number of cellular
-
-
-subscriptions. However, this may not accurately reflect penetration (i.e., the percentage of phone owners among the population), as one person may own multiple mobile phones. An increasing but still limited number of national statistical institutes of developing countries are providing more accurate information on mobile phone ownership.
+� Mobile phone ownership: In 2024, 5.61 billion people worldwide used a mobile phone (equaling 69.4% network access, of which an estimated half are smartphones). 13 However, Asian-Pacific and African coun- tries in particular lag behind. While the percentage of smartphone use is increasing (by the end of 2020, over 4 billion people were using mobile internet, representing 51% of the world's population) 14, poor and rural populations in particular only have access to simple mobile phones without broadband access or the advanced computing functions of a smartphone. Currently, cross-national data sets on mobile phone penetration, such as provided by the World Bank, are based on estimations of the number of cellular subscriptions. However, this may not accurately reflect penetration (i.e., the percentage of phone owners among the population), as one person may own multiple mobile phones. An increasing but still limited number of national statistical institutes of developing countries are providing more accurate information on mobile phone ownership.
 � Access to internet: Basic access to broadband internet is available in every capital and larger city around the world, but rural communities are often excluded. In January 2024, 5.35 billion people use the internet (66%). 15 Merely 45.5% of people in Africa have access to the internet today though 16, and current growth trends suggest we will be well into the second half of the 2020s before we see internet access levels across the continent pass the 50% mark. Broadband access rates are even worse, especially in remote and rural areas. In many countries, broadband internet is quite expensive. High prices may exclude poor people from usage, even when network access is available.
 � Network infrastructure: One common reason why people do not access the internet is poor mobile net- work infrastructure. For projects where mobile phones needed to transfer data, it is recommended to use a mobile operator with at least 3G net coverage, otherwise long waiting times may occur. 3G net coverage is given in most countries in the world, but the available net coverage differs regionally. 4G coverage had increased to 84% in lower-middle-income countries (LMIC) by the end of 2020.
 � Usage gap: Even though the coverage gap has narrowed in recent years (see above), there is still a huge gap in usage. In 2022, 38% or 3 billion people did not use mobile internet despite living in areas with mobile broadband coverage. 17
 � Gender gap: There is also a sobering gender gap online. In developing countries, the parity between male and female internet users can be startling. In Sub-Saharan Africa, the gender gap can range from 10-62%. 18 Women in low and middle-income countries are, on average, 17% less likely to own a mobile
 phone than men, and 19% less likely to use mobile internet. 19 The gender gap is significantly lower in urban than in rural areas, and for younger versus older women. In addition to mobile phone access, there is also a gender gap regarding phone use due to illiteracy, functional literacy or limitation to the local language (as opposed to the official language), which must be considered.
-� National ICT expertise: Moreover, the existence of progressive and pro-competitive regulatory ICT-policy frameworks and national ICT R&D funds are usually associated with higher levels of in-country ICT exper- tise. This, in turn, would be an enabling factor for realization of the technical infrastructure for the project. National ICT experts will likely be better qualified to develop software solutions that are suited to the speci- fic local context and to sustainably maintain the necessary hardware than external international consul- tants.
-
-During the Feasibility Study, to gain a better understanding of the telecommunications environment we recommend consulting the following sources to analyze the local ICT access conditions:
+� National ICT expertise: Moreover, the existence of progressive and pro-competitive regulatory ICT-policy frameworks and national ICT R&D funds are usually associated with higher levels of in-country ICT exper- tise. This, in turn, would be an enabling factor for realization of the technical infrastructure for the project. National ICT experts will likely be better qualified to develop software solutions that are suited to the speci- fic local context and to sustainably maintain the necessary hardware than external international consul- tants. During the Feasibility Study, to gain a better understanding of the telecommunications environment we recommend consulting the following sources to analyze the local ICT access conditions:
 � International Tele-Communication Union: ICT Development Index > https://www.itu.int/en/ITU-D/Statis- tics/Pages/IDI/default.aspx;
 � Alliance for affordable internet: Affordability Report > https://a4ai.org/research/affordability-report/ affordability-report-2021/;
-� GSMA: Mobile Connectivity Index > https://www.mobileconnectivityindex.com/ and > https://www.gsma. com/solutions-and-impact/connectivity-for-good/mobile-for-development/connected-women/, and
-> https://www.gsma.com/solutions-and-impact/connectivity-for-good/external-affairs/
-� Internet World Stats (offers statistical indicators about internet usage for every country)
-> https://data.worldbank.org/indicator/IT.NET.USER.ZS.
+� GSMA: Mobile Connectivity Index > https://www.mobileconnectivityindex.com/ and > https://www.gsma. com/solutions-and-impact/connectivity-for-good/mobile-for-development/connected-women/, and > https://www.gsma.com/solutions-and-impact/connectivity-for-good/external-affairs/
+� Internet World Stats (offers statistical indicators about internet usage for every country) > https://data.worldbank.org/indicator/IT.NET.USER.ZS.
 
 Solutions should be adapted to local energy and ICT access conditions, but adaptations may be possible. For example, electricity can be provided through solar panels. If the network signal is too weak to transfer data immediately, mobile phones can be used as buffer memory and the data can be transferred later when there is better net coverage. Camera and UAV/drone-based sensors can load data onto a data storage device which can then be manually read at regular intervals.
 
-
 12 https://openknowledge.worldbank.org/bitstream/handle/10986/31333/9781464813610.pdf?seq and https://www.iea.org/reports/world-energy-outlook-2023
 13 https://wearesocial.com/uk/blog/2024/01/digital-2024/
-14   https://www.gsma.com/r/wp-content/uploads/2021/09/The-State-of-Mobile-Internet-Connectivity-Report-2021.pdf
+14 https://www.gsma.com/r/wp-content/uploads/2021/09/The-State-of-Mobile-Internet-Connectivity-Report-2021.pdf
 
-15  https://wearesocial.com/uk/blog/2024/01/digital-2024
-16  https://www.statista.com/statistics/1318881/internet-usage-rate-in-africa-by-gender/
+15 https://wearesocial.com/uk/blog/2024/01/digital-2024
+16 https://www.statista.com/statistics/1318881/internet-usage-rate-in-africa-by-gender/
 17 https://www.gsma.com/r/somic/
-18  https://www.weforum.org/publications/global-gender-gap-report-2024/
+18 https://www.weforum.org/publications/global-gender-gap-report-2024/
 19 https://www.gsma.com/r/somic/
-
-
 
 #### 3.1.2.7 Implications of Using RMMV Regarding Project Cost and Duration
 RMMV may have different effects on project cost and duration that should be taken into consideration when assessing project feasibility and drafting the project budget and time schedule outline as part of the Feasibil- ity Study. The implications are discussed in this Section.
@@ -328,10 +284,7 @@ For technical tools, cost is not the main selection criterion, and it is also mo
 � Hardware and data can come at relatively low cost. Examples of this are socioeconomic databases (mostly open and free), satellite-based remote sensing (usually less than EUR 10 per image per sqm) and camera-based remote sensing (a 360-degree camera can cost between EUR 150 and EUR 1,000) and intelligent sensing (sensors cost can vary between EUR 1 and EUR 500 per unit).
 � Standard monitoring or data analysis and visualization tools can be significantly cheaper if existing (open) data sources are initially or from periodically combined with project-generated data through a data dash- board solution (e.g., Power BI, Tableau etc.).
 � Software development services and software licensing fees can be relatively expensive. The origi- nal development of a proprietary remote project management information system did cost about EUR 120,000 in 2018 in addition to annual licensing fees. If open-source software is used, these costs can be substantially lower. Adaptation of the open-source Rapidpro software for the citizen monitoring project in Togo was only a fraction, without any licensing fees, > Decentralization Support Program in Togo (PN: 30205).
-
-
-� Other cost items required for technical tool types also need to be considered. These include IT equipment (computers, smartphones, servers), training on software development, content management and
-/or user training, promotion and social mobilization activities, subsidizing of short message service (SMS) fees (e.g., for mobile data collection or crowdsourcing) and regular updates and maintenance.
+� Other cost items required for technical tool types also need to be considered. These include IT equipment (computers, smartphones, servers), training on software development, content management and/or user training, promotion and social mobilization activities, subsidizing of short message service (SMS) fees (e.g., for mobile data collection or crowdsourcing) and regular updates and maintenance.
 
 Implications of RMMV for Project Duration
 Implications regarding duration depend on the selected institutional approach as well as the software require- ments for the selected technical tool(s):
@@ -374,10 +327,7 @@ Aspect/Topic	Key Considerations	Time Frame
 
 Kick-Off Meeting with PEA/
 � Introduction
-
 Agenda setting
-
-
 Access to technology
 � Avoid national holidays and festivities
 � Check time differences
@@ -422,8 +372,6 @@ Focused Discussions with individual PEA departments/ functions of various topics
 
 
 In parallel to agenda formulation
-
-
 
 Share the documents and data request list as early as possible.
 Aim to have documents and data prepared and readily available by start of the appraisal Conduct virtual site visits	
@@ -520,8 +468,7 @@ Any aspects of the RMMV approach relevant to Art. 2.2 of the Separate Agreement,
 ### 3.1.5 RMMV Aspects in the ToR, Tendering and Contracting of Consulting Services
 RMMV is important to consider in this step in the project cycle because the Drafting of the ToR and the Tendering and Contracting of Consulting Services are crucial to ensure that the respective consultants are assigned the tasks necessary for the mix of institutional approaches, tool types and data sources selected for the project, and are sufficiently and adequately staffed, equipped and qualified.
 
-Ideally, the general ToR for the Implementation Consultant are already drafted as part of the Feasibility Study (> Section 3.1.2 Feasibility Study) or of the project appraisal (as stated in the appraisal mission Minutes of Meeting (> Section 3.1.3 Conducting Project Appraisals remotely), but they usually need to include considera- tions regarding the institutional setup of the project (> Section 3.1.5.1 General ToR Aspects for the Implemen- tation of an RMMV Approach), be described in greater detail, be adapted to changing circumstances during the project preparation period and be supplemented with additional legal, technical and procurement details,
-> Section 2.1 Institutional Approaches, > Section 2.2 Overview on Technical Tool Types and > Section 2.3 Legal and Regulatory Conditions and Recommendations.
+Ideally, the general ToR for the Implementation Consultant are already drafted as part of the Feasibility Study (> Section 3.1.2 Feasibility Study) or of the project appraisal (as stated in the appraisal mission Minutes of Meeting (> Section 3.1.3 Conducting Project Appraisals remotely), but they usually need to include considera- tions regarding the institutional setup of the project (> Section 3.1.5.1 General ToR Aspects for the Implemen- tation of an RMMV Approach), be described in greater detail, be adapted to changing circumstances during the project preparation period and be supplemented with additional legal, technical and procurement details, > Section 2.1 Institutional Approaches, > Section 2.2 Overview on Technical Tool Types and > Section 2.3 Legal and Regulatory Conditions and Recommendations.
 
 #### 3.1.5.1 General ToR Aspects for the Implementation of an RMMV Approach
 Develop Consulting setup and Terms of Reference (ToR): If any RMMV-related roles and obligations of the recipient and/or PEA are to be delegated to an Implementation Consultant, a (third-party) monitoring con- sultant or to other monitoring entities (e.g., technical and/or financial auditor, NGOs or research institutions), such roles and obligations must be included in the respective ToR and the consultancy contract to be agreed during contract negotiations. Depending on the RMMV approach applicable, the necessary tasks, equipment, tool type(s) and staffing concept must be specified in the ToR.
@@ -536,7 +483,6 @@ A few recommendations worth highlighting from our past experience working with c
 � In fragile contexts, the security situation in consultant activity planning and budgeting needs to be considered: The security situation is very critical and volatile in some target regions or areas. The consultant's offer must contain procedures/methods for taking into account the security situation and obtaining professional advice from relevant risk professionals and state options for different security scenarios that include Remote Management and Monitoring of consultant activities and tasks - be it by replacing international with local consultant staff or by deploying appropriate technical tools (that feature auto-lock and data destruction safeguards for the technical tools and data sources that contain personal or other sensitive data).
 To protect staff members during work and travel to and within the project areas, the financial proposal must contain reimbursable costs for reasonable security measures for staff members, offices, living accom- modations, vehicles, technical tools, data sources and other needed equipment, as recommended by profes- sional security advisors.
 22 Please Note: This Section only covers additional specifications on RMMV for ToRs.
-
 
 Detailed ToR Templates have been developed for KfW staff and PEA for consultants to design RMMV approaches as part of the Feasibility Study and for consultants to design the setup or expansion of R/MIS for remote project management and monitoring. These ToR can be accessed by KfW staff via the internal KfW knowledge management system.
 
@@ -555,15 +501,11 @@ Option 1 (Remote Monitoring): KfW contracts TPM consultant on behalf of the PEA 
 
 Option 2 (Remote Monitoring): Technical Audit is part of Financial Audit: A technical auditor can be procured as a subcontractor under the contract with the financial auditor. This is typically financed from project funds.
 
-Figure 3.4: Contractual Setup: TPM Consultant (Option 1) or Technical Audit As Part of Financial Audit (Option 2)
-
-Consulting Contract
-
+Figure 3.4: Contractual Setup: TPM Consultant (Option 1) or Technical Audit As Part of Financial Audit (Option 2) Consulting Contract
 
 Option 3 (Remote Verification): KfW independently contracts TPM consultant conducting Remote Verification from its own funds for TPV: The TPM consultant can be directly contracted by KfW without the consultant having a direct legal relationship with the PEA. This allows for complete independence of the TPV, but has to be agreed in the appraisal minutes of meeting, Grant or Loan Agreement (condition precedent) or Separate Agreement (implementation agreement).
 
-Figure 3.5: Contractual Setup: KfW Directly Contracts TPM Consultant
-for Third-Party Verification (Option 3)
+Figure 3.5: Contractual Setup: KfW Directly Contracts TPM Consultant for Third-Party Verification (Option 3)
 
 Directly contracting the TPM consultant for Remote Verification purposes allows the consultant to not cover only one project, but to provide (Remote) Verification services for the whole portfolio in the target country. The consultant is fully independent, being contracted and managed directly by KfW.
 
@@ -586,8 +528,7 @@ Even if investment information was already collected during the preparation phas
 � Analyze access to public services through GIS: GIS modeling enables to gauging access to existing public services in order to strategically select locations for new roads and socioeconomic infrastructure,
 > Fact Sheet Geospatial Tools/GIS
 � Participatory approaches to factor in target group preferences: local staff or consultants conduct participatory approaches and photo-document the results in order to take into account the priorities of the community, > Section 2.1.1 Institutional Approach A5 and > Fact Sheet Mobile Data Collection
-� Crowdsource information for planning in emergency situations: in emergency contexts, crowdsourc- ing of information on local population needs is obtained using the respective crowdsourcing tools,
-> Fact Sheet Crowdsourcing Tools
+� Crowdsource information for planning in emergency situations: in emergency contexts, crowdsourc- ing of information on local population needs is obtained using the respective crowdsourcing tools, > Fact Sheet Crowdsourcing Tools
 
 ### 3.2.2 Investment Planning
 For financing an individual project, the investment planning and impact assessment should typically be done in the project preparation phase. At the start of implementation, the focus lies on updating the initial assess- ments (as necessary), implementation of the E&S plans (such as ESMP, RAP etc.) and using RMMV to monitor their implementation.
@@ -611,10 +552,6 @@ One challenge in an RMMV context is keeping all relevant PEA staff informed and 
 � (Remote) Management Information System for the project: a remote management information sys- tem is procured for the project. On top of georeferenced photos of different project stages, it can include further project management relevant information, such as preparatory studies, financial and technical documentation per site, and so on, > Fact Sheet R/MIS
 � Data room for construction project management: a data room is a common tool in the construction industry for communication and document management, > Fact Sheet Collaboration Tools
 � Building information modeling (BIM) for remote site planning and site supervision: building information modeling can also be used for preparation and management of infrastructure measures,> Fact Sheet BIM 24 Depending on the extent of project preparation, aspects from remote project preparation may also be relevant in this section. An open program, for instance, may require a needs assessment at the be-ginning of project execution.
-
-
-
-
 
 ### 3.2.5 Remote Site Supervision and Acceptance of Works
 Site supervision and acceptance of works by the PEA/Implementation Consultant is crucial for project success, thus posing a considerable challenge in RMMV contexts. While in standard FC projects, international staff at least conduct spot checks or are even present on the construction site for the full project duration, this is usually not possible in RMMV contexts. Site visits are furthermore essential, as they form the basis for releasing additional tranches of payments to construction firms, see also, > Section 3.3.2 How to Conduct the Verification of the Use of Funds Remotely. Site supervision is also essential in terms of ESHS. In particular it has to be assessed whether the ESMP is adequately implemented, including occupational health and safety considerations, labor conditions, such as in workers' camps, environmental conditions on the con- struction site and community health and safety-related aspects like traffic management, and so on.
@@ -644,8 +581,7 @@ At specific points or regular intervals during project implementation, feedback 
 
 � Collection of target groups' needs/feedback/opinions/observations through participatory approaches: Rural Participatory Appraisal, Village Mapping and so on, conducted by specialized local consultants of all genders speaking the local language(s) > Annex 1 Glossary.
 � Digital Grievance Redress Mechanism (e.g., > UFK Iraq, (PN: 37581): the main PEA utilizes such a mechanism so that people can anonymously disclose irregularities on project sites, > Fact Sheet Crowd- sourcing Tools.
-� Interactive radio shows: local radio is asked to host a show about the project where citizens can call in and anonymously voice feedback on the project, > Annex 1 Glossary. Example: Interactive radio project by Deutsche Welle in preparation for the KfW-financed > Decentralization Support Program in Togo 
-(PN: 30205)
+� Interactive radio shows: local radio is asked to host a show about the project where citizens can call in and anonymously voice feedback on the project, > Annex 1 Glossary. Example: Interactive radio project by Deutsche Welle in preparation for the KfW-financed > Decentralization Support Program in Togo (PN: 30205)
 � Local user feedback via automated SMS questions (via Mobile Data Collection or Crowdsourcing): users are encouraged to participate in an SMS survey regarding Use, Operation and Maintenance Answers (Voice, VoIP and/or text) are recorded and analyzed (semi-)automatically, also > Decentralization Support  Program in Togo (PN: 30205).
 
 ### 3.2.7 (Remote) Monitoring of Resettlement Activities
@@ -660,7 +596,6 @@ Usage of national data/PEA's MIS or MMS: internal data of the PEA or operating u
 Local user feedback via automated SMS questions: users are encouraged to participate in an SMS survey regarding use, operation and maintenance answers (voice and/or text) are recorded and analyzed automati- cally, > Fact Sheet Crowdsourcing Tools.
 
 � Citizen monitors are individual citizens who support the monitoring of e.g., construction progress or monitor environmental and social aspects. They can either be recruited through a local committee or by selecting individuals who are actively participating through crowdsourcing tools, > Section 2.1.1 Institutio- nal Approach A5 and > Fact Sheets on Mobile Data Collection and > Crowdsourcing Tools.
-
 
 Sector-specific approaches:
 
@@ -736,55 +671,50 @@ The aspects to consider in a Virtual Review Mission are very much similar to tho
 Table 3.4: Checklist on How to Conduct a Remote Project Progress Review
 
 
-
 Step	Aspects to consider
-Scheduling	�  Availabilities of the relevant parties
-(incl. technical expert, PEA representative, consultant, etc.)
+Scheduling	
+�  Availabilities of the relevant parties (incl. technical expert, PEA representative, consultant, etc.)
 � Religious/political events (e.g., Ramadan, elections)
-Define goal of the review	� Define goal-what do we what to achieve?
+
+Define goal of the review	
+� Define goal-what do we what to achieve?
 � What information do we already have and what is still needed?
 � Define materiality threshold
 
 Step	Aspects to consider
 
-
-Kick-Off Meeting	� Introduction
+Kick-Off Meeting	
+� Introduction
 � Present an overview of agenda. Discuss and agree on any last-minute changes
 � Select projects to be reviewed in detail
 � Consultants can be invited depending on project type, context and level of trust
 
 
-Project Review	� Where available, use (Remote) Management Information Systems (R/MIS) to conduct joint project reviews
+Project Review	
+� Where available, use (Remote) Management Information Systems (R/MIS) to conduct joint project reviews
 � Involve relevant persons as defined during the review preparation phase
 
-Define review scope	�  Scope and boundary to be determined by the PM and technical expert
+Define review scope	
+� Scope and boundary to be determined by the PM and technical expert
 � Define threshold values internally
 � Determine stakeholder groups and PAP to include in the focus group discussions
 
-
-
 Focus Group Discussions with external stakeholders (e.g., target group(s) and
-� 
-Frequently facilitated by the PEA/recipient, in some cases by consultants or NGOs - responsibility has to be determined during the preparation phase, ensuring active participation and access to the technical tool types to be used during the review mission
+� Frequently facilitated by the PEA/recipient, in some cases by consultants or NGOs - responsibility has to be determined during the preparation phase, ensuring active participation and access to the technical tool types to be used during the review mission
 
 Define Roles and Responsibilities
 
 Remote Progress/Final Review Concept
-� 
-Determine/agree on the review lead-PM, technical expert, KfW national expert, PEA
+� Determine/agree on the review lead-PM, technical expert, KfW national expert, PEA
 � Define role and responsibilities of the team members
 � Guidance and instruction to be given by the PM/KfW national expert to the implementation consultant, and by the international KfW technical expert to the national KfW technical expert
 � Concept proposal by KfW national expert based on template provided by the PM/technical expert. Draft proposal by KfW national expert to be approved by PM and technical expert
 � Identify relevant points of contact (with the PEA and the consultant)
-� Based on the information/data identified as relevant and necessary, draft a document request
-
-PAP representatives)
-� 
-Prior to the meeting, determine the appropriateness of having PEA/recipient present during these meetings. Separate meetings without the PEA/recipients and/or contractors can sometimes yield more honest feedback
+� Based on the information/data identified as relevant and necessary, draft a document request PAP representatives)
+� Prior to the meeting, determine the appropriateness of having PEA/recipient present during these meetings. Separate meetings without the PEA/recipients and/or contractors can sometimes yield more honest feedback
 � Be aware of cultural and gender considerations (also as part of preparation activities) and sensitize staff as to respecting these
 � Conduct "empathy-oriented" interviews (i.e. more than just gathering factual information)
-� Protocol the results of the meetings but do not process or publish any personal information of participants. Anonymity of the project-affected persons must always be protected,
-see > Section 2.3.1 Privacy Check
+� Protocol the results of the meetings but do not process or publish any personal information of participants. Anonymity of the project-affected persons must always be protected, see > Section 2.3.1 Privacy Check
 
 
 Tools, Platforms and Interfaces
@@ -797,25 +727,27 @@ list and share with the PEA in advance. Consider existing information (i.e. repo
 � Availability and access to computer and internet.
 � Specific restrictions? Are we limited to certain tool types and platforms? Which tools can be accessed by all parties? > KfW Digital Rights Check
 
-Virtual site visits	� Access to sites by PEA/recipient and KfW national experts
+Virtual site visits	
+� Access to sites by PEA/recipient and KfW national experts
 � Safety and security of the site(s)
 � Potential deployment of tools and equipment to allow capturing of the site situation (e.g., drones, cameras, 306?cameras)
 � Permit requirements
 
 
-Document Review	�  If possible, ask to have the documents ready prior to the start of the review mission
+Document Review	
+�  If possible, ask to have the documents ready prior to the start of the review mission
 � Where necessary, ask the PEA/recipient to be available during the review sessions to allow clarification of questions
 � Cross-check against requirements per the Separate Agreement and challenge information provided
 � Highlight any information gap
 
 
-Closing Meeting	�  Date and time should be confirmed during the kick-off meeting
+Closing Meeting	
+�  Date and time should be confirmed during the kick-off meeting
 � To be participated by the key project parties (e.g., PEA/recipient representatives, PM, technical expert, E&S expert, etc.)
 
 #### 3.3.1.2 Conducting Remote Project Progress Review Mission
 The purpose of a progress review mission is to assess and verify the state of progress as well as the proper use of funds by the recipient or the PEA. In the absence of on-site assessment, information collection is lim- ited to virtual means. Depending on the discussions during the preparation phase, a Virtual Review Mission can take place via telephone/video conference, and documents and access to tools and data sources can be shared, reviewed and/or discussed electronically. It is therefore important to ensure that the aspects consid- ered during the review preparation phase are implemented.
-� 
-Ensure the meeting dial-in details are circulated in advance
+� Ensure the meeting dial-in details are circulated in advance
 � Summarize the review findings in a Power Point presentation or equivalent. Where possible, use photos to illustrate findings
 � If the Closing Meeting presentation is to be distributed, care should be taken to remove or to redact confidential information and any information that could disadvantage or serve to identify target group representatives or the PAP without their explicit consent
 � Thank participants for their time and support during the review mission
@@ -823,23 +755,14 @@ Ensure the meeting dial-in details are circulated in advance
 
 
 #### 3.3.1.3 Follow-Up Activities
-Following the review mission, hold a debriefing meeting with the team members within one week of the Clos- ing Meeting to a) reflect on the review mission process, b) discuss challenges and lessons learned, and c) set the timeline for completing the Monitoring Report and define roles and responsibilities.
-
-Summarize the review findings in a Monitoring Report and submit to KfW Management for review.
-
-Establish a Corrective Action Plan (CAP) based on the findings of the review mission. The CAP should include a concise description of the findings and the corresponding corrective actions, and define individuals/functions responsible for implementing corrective actions. Set timeline for completing the corrective actions. Share the CAP with the PEA/recipient and schedule a call to explain the findings and the corrective actions. Obtain PEA/ recipient's acceptance to CAP in writing.
-
-Use CAP as the basis for follow-up and to track progress in the next progress review.
+Following the review mission, hold a debriefing meeting with the team members within one week of the Clos- ing Meeting to a) reflect on the review mission process, b) discuss challenges and lessons learned, and c) set the timeline for completing the Monitoring Report and define roles and responsibilities. Summarize the review findings in a Monitoring Report and submit to KfW Management for review. Establish a Corrective Action Plan (CAP) based on the findings of the review mission. The CAP should include a concise description of the findings and the corresponding corrective actions, and define individuals/functions responsible for implementing corrective actions. Set timeline for completing the corrective actions. Share the CAP with the PEA/recipient and schedule a call to explain the findings and the corrective actions. Obtain PEA/ recipient's acceptance to CAP in writing. Use CAP as the basis for follow-up and to track progress in the next progress review.
 
 ###  3.3.2 How to Conduct the Verification of Use of Funds Remotely
-If due to the security situation or other project-specific circumstances physical supervision of the use of the funds is not possible or cannot be carried out by KfW itself, wholly or in part, this must already be taken into account in the planning phase of the project if such risk has been identified in the planning stage.
-
-The particulars must be justified and alternative procedures selected as part of planning for auditing of the use of funds, > Section 2, in particular > Section 2.5 RMMV Decision Matrix as well as > Section 3.3.1.
+If due to the security situation or other project-specific circumstances physical supervision of the use of the funds is not possible or cannot be carried out by KfW itself, wholly or in part, this must already be taken into account in the planning phase of the project if such risk has been identified in the planning stage. The particulars must be justified and alternative procedures selected as part of planning for auditing of the use of funds, > Section 2, in particular > Section 2.5 RMMV Decision Matrix as well as > Section 3.3.1.
 
 If an on-site audit is not not possible, wholly or in part, even if only temporarily
 a. this must be documented and justified
-b. a procedure should be chosen that adequately implements requirements for auditing of the use of funds,
-> Section 2.5 RMMV Decision Matrix
+b. a procedure should be chosen that adequately implements requirements for auditing of the use of funds, > Section 2.5 RMMV Decision Matrix
 c. in case of budget funds and development loans, the respective client, e.g., the Federal Ministry for Economic Cooperation and Development or the ministry that issued the promotional mandate, must be informed.
 
 If adequate verification procedures are not available either, the respective client of KfW for the project must be informed that KfW can only fulfil its monitoring obligations to a limited extent.
@@ -847,6 +770,7 @@ If adequate verification procedures are not available either, the respective cli
 In the case of highly fragile contexts, the Implementation Consultant is often charged with managing project funds on behalf of the recipient (> Section 2.1.1 Institutional Approach A3, sometimes also > Section 2.1.1 Institutional Approach A2). In such contexts, the Implementation Consultant should be requested to keep the original procurement and accounting documents in a safe location, e.g., at the consultant's HQ. Remote Verifi- cation of the use of funds can then be conducted by KfW staff at that location.
 
 If international transfer of the original documents is not feasible (although the security situation allows such), it is recommended to plan for regular accounting-based audits of use of funds by qualified national auditor firms on-site or in-country during project implementation. You may also consider involving KfW national experts to a greater degree in this regard.
+
 ## 3.4 End of Project
 An FC project usually ends once all of its planned activities have been either executed or permanently sus- pended. Any works completed during the project implementation phase are subject to a provisional commis- sioning/acceptance procedure, followed by the final commissioning/acceptance procedure after elapse of the warranty/guarantee period (i.e. 12 months in most cases). KfW performs a final review, ideally between provi- sional and final commissioning/acceptance,. In many cases, an ex-post evaluation of the project impact is con- ducted after a predefined period following final review.
 
@@ -870,7 +794,6 @@ Usually, the collection of feedback from target groups and PAP on the projects o
 
 Also, during the remote final project review the necessary data for ex-post evaluation of the project should be recorded and safely transferred to KfW.
 
-
 If the project uses an R/MIS, we highly recommend including in the ToR of the PEA and/or Implementation Consultant in charge of managing the R/MIS the assurance of keeping the R/MIS accessible to KfW until remote final review by KfW. It is also advisable to include an Erasure Policy (> Section 2.3.1 Privacy Check) as well as auto-lock and data destruction safeguards in fragile contexts for technical tools and data sources that contain personal or other sensitive data. We also recommend consulting the > KfW Digital Rights Check.
 
 The remote final project review concludes with jointly drafting and signing of the Minutes of Meeting with the PEA at its end and a back-to-office report including the final review concept stating the RMMV approach cho- sen and the reason(s) for having to conduct the final review remotely.
@@ -884,8 +807,7 @@ The Evaluation Department of KfW (FC-E) is always looking for new ways to conduc
 
 In March 2020, FC-E published a brief guide on remote evaluation techniques. Nevertheless, remote data ele- ments can never fully replace project visits, as some information can only be obtained through interviews and site visits.
 
-FC-E considers whether a local evaluator should be used and/or secondary data can provide insights on a
-case-by-case basis. It must be noted that statistical methods can only be used to measure the effectiveness of the FC-E intervention in a few cases. Still, descriptive information and visualizations can be helpful, e.g., for assessing the targeting of project sites or analyzing developments between project appraisal and evaluation. However, observed changes are not necessarily causally attributable to the project; rigorous impact evaluation methods are particularly suitable for this purpose. These allow evaluators to look not only at the development of indicators over time but also at in comparison to the development thereof for similar sites/target groups (control group), and to control for other factors not influenced by the project.
+FC-E considers whether a local evaluator should be used and/or secondary data can provide insights on a case-by-case basis. It must be noted that statistical methods can only be used to measure the effectiveness of the FC-E intervention in a few cases. Still, descriptive information and visualizations can be helpful, e.g., for assessing the targeting of project sites or analyzing developments between project appraisal and evaluation. However, observed changes are not necessarily causally attributable to the project; rigorous impact evaluation methods are particularly suitable for this purpose. These allow evaluators to look not only at the development of indicators over time but also at in comparison to the development thereof for similar sites/target groups (control group), and to control for other factors not influenced by the project.
 
 In > Section 4.2, examples of data elements that FC-E has previously used in ex-post evaluations and have been prepared remotely are presented.
 
