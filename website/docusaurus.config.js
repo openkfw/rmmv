@@ -80,24 +80,23 @@ const config = {
             ],
           },
           {
-            title: 'Legal Notice',
-            items: [
-              {
-                label: 'Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International',
-                to: '/ccl',
-              },
-            ],
-            items: [
-              {
-                label: 'Legal Disclaimer',
-                to: '/disclaimer',
-              },
-            ],
-            items: [
-              {
-                label: 'Legal License',
-                to: '/license',
-              },
+            {
+  title: 'Legal Notice',
+  items: [
+    {
+      label: 'Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International',
+      to: '/ccl',
+    },
+    {
+      label: 'Legal Disclaimer',
+      to: '/disclaimer',
+    },
+    {
+      label: 'Legal License',
+      to: '/license',
+    },
+  ],
+},
             ],
           },
         ],
