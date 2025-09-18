@@ -71,7 +71,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Table of Contents',
+            title: 'Overview',
             items: [
               {
                 label: 'Table of Contents',
@@ -80,13 +80,25 @@ const config = {
             ],
           },
           {
-            title: 'Legal',
+            title: 'Legal Notice',
             items: [
               {
-                label: 'Legal Disclaimer',
+                label: 'Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International',
                 to: '/ccl',
               },
             ],
+            items: [
+              {
+                label: 'Legal Disclaimer',
+                to: '/disclaimer',
+              },
+            ]
+            items: [
+              {
+                label: 'Legal License',
+                to: '/license',
+              },
+            ]
           },
         ],
         copyright: undefined, // This removes the default copyright
