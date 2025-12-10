@@ -15,9 +15,9 @@ Before entering into any of the activities contemplated in this _Guidebook_, any
 
 Due to the general nature of this _Guidebook_, conclusions drawn from it always need to be adjusted to the specific needs and design of the respective project context. KfW can therefore not be held liable for any use and any conclusions drawn from this _Guidebook_.
 
-KfW makes no representation and excludes to the fullest extent permitted by applicable law any respon- sibility or liability for this _Guidebook_, its content, or any errors or omissions made in the content of this _Guidebook_. The information contained in this _Guidebook_ is provided for information purposes only and on an “as is” basis with no guarantees of completeness, accuracy, usefulness, or timeliness.
+KfW makes no representation and excludes to the fullest extent permitted by applicable law any responsibility or liability for this _Guidebook_, its content, or any errors or omissions made in the content of this _Guidebook_. The information contained in this _Guidebook_ is provided for information purposes only and on an “as is” basis with no guarantees of completeness, accuracy, usefulness, or timeliness.
 
 **Rights And Permissions**
 
-The material in this work is subject to copyright. Because KfW Development Bank encourages dissemina- tion of its knowledge, this work may be reproduced, in whole or in part, for noncommercial purposes as long as full attribution to this work is given.
+The material in this work is subject to copyright. Because KfW Development Bank encourages dissemination of its knowledge, this work may be reproduced, in whole or in part, for noncommercial purposes as long as full attribution to this work is given.
 
