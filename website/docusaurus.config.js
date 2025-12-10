@@ -17,13 +17,18 @@ const config = {
   url: 'https://openkfw.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   baseUrl: '/rmmv/',
+  trailingSlash: true,
 
   // GitHub pages deployment config
   organizationName: 'openkfw',
   projectName: 'rmmv',
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
 
   i18n: {
     defaultLocale: 'en',
