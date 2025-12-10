@@ -25,6 +25,7 @@ const config = {
 
   onBrokenLinks: 'throw',
   markdown: {
+    // @ts-ignore
     hooks: {
       onBrokenMarkdownLinks: 'warn',
     },

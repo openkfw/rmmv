@@ -20,9 +20,13 @@ KfW has categorized institutional approaches for RMMV as follows:
 
 **Figure 2.1: Overview of Institutional RMMV Approaches**
 
+![Figure 2.1: Overview of Institutional RMMV Approaches](/img/media/figure-2-1.png)
+
 In KfW's experience, the type of institutional RMMV approach used depends on the structure, resources, and capacity of the Project Executing Agency (PEA). Table 2.1 provides an overview. Institutional RMMV approaches cover all stages of the project cycle; this will be further explored in Section 3 RMMV within the FC Project Cycle.
 
 **Table 2.1: Overview of Institutional RMMV Approaches by PEA Capacity**
+
+![Table 2.1: Overview of Institutional RMMV Approaches by PEA Capacity](/img/media/table-2-1.png)
 
 | Use | PEA with strong capacities/sufficient resources | PEA with limited capacity/insufficient resources or No PEA |
 |-----|---------------------------------------------------|----------------------------------------------------------|
@@ -47,6 +51,8 @@ In fragile contexts, KfW often partners with NGOs who take over the role of the 
 Cooperation between KfW and an NGO can be either based on a direct contractual agreement between KfW and the NGO or on an indirect contractual agreement that requires further parties in the contractual concept:
 
 **Figure 2.2: Main Modalities of KfW Cooperating with NGOs**
+
+![Figure 2.2: Main Modalities of KfW Cooperating with NGOs](/img/media/figure-2-2.png)
 
 1. **Direct Contract KfW & NGO**: KfW and the NGO have a direct contractual agreement and the NGO is both the direct contract partner of the Grant and Separate Agreement. In this case, the NGO is both recipient of the funds and the PEA and is selected by KfW through appraisal.
 
@@ -91,6 +97,8 @@ In a monitoring setup, one can distinguish three roles:
 - **Data verifier**: verifies and triangulates data
 
 **Figure 2.3: Example of an RMMV Governance Structure from the Decentralization Program Niger**
+
+![Figure 2.3: Example of an RMMV Governance Structure from the Decentralization Program Niger](/img/media/figure-2-3.png)
 
 Although the roles of various stakeholders may differ in each project, the following observations regarding the changing of certain roles and the resulting issues and potential conflicts of interest can be made:
 
@@ -149,6 +157,8 @@ Most importantly, technical tools require technology to function. They usually u
 However, there are frequently limitations: although 3G/4G internet might be widely available, the quality and reliability of the connection plays a key role. When PAP are concerned, certain aspects must be considered, such as whether they truly have access (proper connection, digital literacy, familiarity with the selected tools) and whether the selected method is appropriate (data protection concerns, people being comfortable with expressing their opinion through a given platform, cultural appropriateness, etc.).
 
 **Figure 2.5: Tool Types According to Data Type**
+
+![Figures 2.4 and 2.5: Tool Type Categorization and Tool Types According to Data Type](/img/media/figure-2-4-2-5.png)
 
 ### 2.2.2 The Use of Open-Source vs. Proprietary Tools/Software
 
@@ -246,6 +256,8 @@ Successful application of institutional RMMV approaches, tools and data sources 
 
 **Table 2.2: Which Legal or Regulatory Issues are Relevant for Each Type of Approach, Tool Type, and Data Source?**
 
+![Table 2.2: Which Legal or Regulatory Issues are Relevant for Each Type of Approach, Tool Type, and Data Source?](/img/media/table-2-2.png)
+
 | Legal/regulatory issue | Approaches, tools and data sources for which they are to be considered |
 |------------------------|-------------------------------------------------------------------------|
 | Drone/UAV regulation | Drone/UAV-based remote sensing |
@@ -279,6 +291,8 @@ The following principles should be assured:
 - **Accountability**: persons should have a method available to them to hold data collectors accountable
 
 **Figure 2.6: Privacy Check**
+
+![Figure 2.6: Privacy Check](/img/media/figure-2-6.png)
 
 ### 2.3.2 Information Security and Confidentiality in Financial Cooperation
 
@@ -335,6 +349,8 @@ For collaborative work in the context of RMMV, KfW has installed so-called RMMV 
 
 **Figure 2.7: Standard RMMV Room Equipment**
 
+![Figure 2.7: Standard RMMV Room Equipment](/img/media/figure-2-7.png)
+
 ### 2.4.2 IT Infrastructure at the Country Office Level
 
 KfW's core business includes maintaining a large and ever-changing number of international country offices. KfW's IT department is currently managing approximately 2,300 operationally relevant IT infrastructure components at 75 FC and IPEX locations.
@@ -357,6 +373,8 @@ To provide orientation on the usefulness of different institutional approaches, 
 
 **Table 2.3: Clustering of Information Needs within the Project Cycle**
 
+![Table 2.3: Clustering of Information Needs within the Project Cycle](/img/media/table-2-3.png)
+
 | Government Negotiations | Project Preparation | Project Appraisal | Grant or Loan Agreement | Tender of Consulting Services | Project Implementation | Start of Operation | Final Review | Ex-Post Evaluation |
 |-------------------------|-------------------|-------------------|-------------------------|------------------------------|-------------------|-------------------|-------------|-------------------|
 | 2) Target area(s)/target groups identification | 1) Infrastructure quality & project progress incl. use of funds<br/>2) Target area(s)/target groups identification<br/>3) Target groups' needs and feedback<br/>5) Environmental and social adverse impacts and risks | 1) Infrastructure quality & project progress incl. use of funds<br/>2) Target area(s)/target groups identification<br/>3) Target groups' needs and feedback<br/>5) Environmental and social adverse impacts and risks | 1) Infrastructure quality & project progress incl. use of funds<br/>5) Environmental and social adverse impacts and risks | 1) Infrastructure quality & project progress incl. use of funds | 1) Infrastructure quality & project progress incl. use of funds<br/>3) Target groups' needs and feedback<br/>5) Environmental and social adverse impacts and risks | 1) Infrastructure quality & project progress incl. use of funds<br/>3) Target groups' needs and feedback<br/>4) Project outcomes and impact (incl. usage)<br/>5) Environmental and social adverse impacts and risks | 1) Infrastructure quality & project progress incl. use of funds<br/>3) Target groups' needs and feedback<br/>4) Project outcomes and impact (incl. usage)<br/>5) Environmental and social adverse impacts and risks | 1) Infrastructure quality & project progress incl. use of funds<br/>3) Target groups' needs and feedback<br/>4) Project outcomes and impact (incl. usage)<br/>5) Environmental and social adverse impacts and risks |
@@ -378,7 +396,9 @@ The matrix shows how each institutional approach and tool type (incl. data sourc
 
 **Table 2.4: RMMV Decision Matrix - Selection of suitable institutional RMMV Approaches for your Project**
 
-[The complete decision matrix would be displayed here with all the institutional approaches A1-A6 and technical tools mapped against the five information need categories, with color coding and context condition indicators]
+![Table 2.4: RMMV Decision Matrix (page 1)](/img/media/table-2-4a.png)
+
+![Table 2.4: RMMV Decision Matrix (page 2)](/img/media/table-2-4b.png)
 
 ---
 

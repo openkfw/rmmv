@@ -51,6 +51,8 @@ To provide orientation on the usefulness of different institutional approaches, 
 
 ### Table 1.1: Clustering of Information Needs within the FC Project Cycle
 
+![Table 1.1: Clustering of Information Needs within the FC Project Cycle](/img/media/table-1-1.png)
+
 Because of the multitude of different institutional approaches, technical tools and data sources a _Decision Matrix_ has been developed to help KfW portfolio managers (PMs) determine which of them are particularly useful for which type of information to be collected for the spe- cific project and if there are potentially limiting human rights or legal conditions to be consid- ered; see [Section 2.5 The RMMV Decision Matrix for Selecting the Appropriate Mix of Institutional Approaches, Tool Types and Data Sources](../chapter-02-approaches-tools#25-the-rmmv-decision-matrix-for-selecting-the-appropriate-mix-of-rmmv-institutional-approaches-tool-types-and-data-sources).
 
 ### **Limitations and Risks of RMMV Under certain conditions, projects cannot be implemented even when using RMMV:**
