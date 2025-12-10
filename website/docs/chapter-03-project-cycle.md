@@ -13,6 +13,8 @@ Although this Guidebook refers to KfW's mode of operation, the principles can, o
 
 Figure 3.1: Most Relevant Steps for RMMV in the Financial Cooperation Project Cycle
 
+![Figure 3.1: Most Relevant Steps for RMMV in the Financial Cooperation Project Cycle](/img/media/figure-3-1.png)
+
 Government
 Feasibility
 Project
@@ -185,6 +187,8 @@ After collection, the provided project location data is uploaded in a KfW-intern
 
 Figure 3.2: Visualization of Location Data Following the FC Project Location Data Model Showing All FC Project Locations in Pakistan in 2021
 
+![Figure 3.2: Visualization of Location Data Following the FC Project Location Data Model Showing All FC Project Locations in Pakistan in 2021](/img/media/figure-3-2.png)
+
 The above map shows all FC project locations under preparation and implementation in Pakistan in a uniform way.
 
 Some of the locations are showing a selection of filter criteria (e.g., project title acronym, name of the PEA, implementation status of the location activity).
@@ -192,6 +196,8 @@ Some of the locations are showing a selection of filter criteria (e.g., project 
 Now, all hydropower plant locations in Pakistan can be selected with one click:
 
 Figure 3.3: An Illustration of a Use Case: Overview of All Hydropower Stations Financed by the FC in Pakistan
+
+![Figure 3.3: An Illustration of a Use Case: Overview of All Hydropower Stations Financed by the FC in Pakistan](/img/media/figure-3-3.png)
 
 project. If different potential PEAs are considered, the organization's willingness may be a crucial selection factor. Therefore, the consultant must analyze whether the potential PEA(s) is/are willing to share relevant data, and which set(s) of institutional approaches and technical tool types they are or propose using.
 � Analysis of PEA(s) experience and capacity with RMMV and proposed approaches: The consultant is to analyze the reliability of monitoring approaches and tools currently used by the PEA(s). If the PEA(s) already use(s) tools, the consultant is to assess whether these can be used or extended or additional tools or tool types are required. If the PEA uses a (Remote) Management Information System, see also, > Fact Sheet (Remote) Management Information System ToR Case B.
@@ -312,12 +318,17 @@ A well-designed appraisal concept is necessary to successfully conduct a project
 The following should be considered and planned for in coordination with the PEA/recipient:
 
 Table 3.1: Checklist on How to Prepare a Remote Appraisal
+
+![Tables 3.1 and 3.2: Remote Appraisal Checklists](/img/media/table-3-1-3-2.png)
+
 #### 3.1.3.2 Conducting Virtual Appraisal Missions
 A Virtual Appraisal Mission is likely to take place over a series of telephone/video conferences and involve accessing of technical tool types and data sources, depending on the setup as determined during the preparation phase. The approach should allow a level of flexibility, and potentially for the participation of additional technical experts. However, a high level of coordination is required to ensure efficient use of time and that the information obtained reflects as accurately as possible the likely risks and impacts of the project. It is therefore recommended to confirm the appraisal agenda with the PEA/recipient at least two weeks prior to start of the project appraisal as well as other logistical aspects mentioned above.
 
 The following illustrates the process of conducting a typical virtual project appraisal and aspects to be considered:
 
 Table 3.2: Checklist on How to Conduct a Remote Appraisal
+
+![Table 3.2: Checklist on How to Conduct a Remote Appraisal](/img/media/table-3-1-3-2.png)
 
 Step	Aspects to consider
 
@@ -503,6 +514,8 @@ Option 2 (Remote Monitoring): Technical Audit is part of Financial Audit: A tech
 
 Figure 3.4: Contractual Setup: TPM Consultant (Option 1) or Technical Audit As Part of Financial Audit (Option 2) Consulting Contract
 
+![Figures 3.4 and 3.5: Contractual Setup Options](/img/media/figure-3-4-3-5.png)
+
 Option 3 (Remote Verification): KfW independently contracts TPM consultant conducting Remote Verification from its own funds for TPV: The TPM consultant can be directly contracted by KfW without the consultant having a direct legal relationship with the PEA. This allows for complete independence of the TPV, but has to be agreed in the appraisal minutes of meeting, Grant or Loan Agreement (condition precedent) or Separate Agreement (implementation agreement).
 
 Figure 3.5: Contractual Setup: KfW Directly Contracts TPM Consultant for Third-Party Verification (Option 3)
@@ -662,6 +675,8 @@ Key aspects to consider during the preparation phase include, but are not limite
 
 Table 3.3: Checklist on How to Prepare a Remote Project Progress Review
 
+![Tables 3.3 and 3.4: Remote Project Progress Review Checklists](/img/media/table-3-3-3-4.png)
+
 Although key aspects have been agreed with the various stakeholders during the review preparation phase, it is nevertheless recommended to distribute a reminder (e.g., per email) at least one week prior to start of the planned review mission. The agenda of the virtual review mission should also be circulated. The purpose of the reminder is to ensure the participation of key stakeholders and the timely provision of information, and allow time to make adjustments to the agenda if needed. Also, check whether the relevant technical tool types (e.g., Collaboration Tools and R/MIS) are accessible to all review participants.
 
 At least three days prior to the scheduled review mission, check if the meeting dial-in information has been distributed to all required participants. Where necessary, follow up with the key points of contact (e.g., PEA, consultant) if no response to the reminder email has been received.
@@ -669,6 +684,8 @@ At least three days prior to the scheduled review mission, check if the meeting 
 The aspects to consider in a Virtual Review Mission are very much similar to those of a conventional review mission. These are summarized as follows:
 
 Table 3.4: Checklist on How to Conduct a Remote Project Progress Review
+
+![Table 3.4: Checklist on How to Conduct a Remote Project Progress Review](/img/media/table-3-3-3-4.png)
 
 
 Step	Aspects to consider

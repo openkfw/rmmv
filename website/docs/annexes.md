@@ -12,6 +12,8 @@ sidebar_position: 10
 
 ## Annex 3: KfW's Project Location Data Collection and Management Approach
 
+![Figure A3.1: Schematic Representation of Different Location Data categories](/img/media/figure-a3-1.png)
+
 ## Annex 4: List of RMMV Literature
 
 [Content to be added]
